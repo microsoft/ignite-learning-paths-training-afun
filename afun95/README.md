@@ -33,7 +33,7 @@ code.
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](/demos/readme.md) | [Deployment](/deployment/README.md) | 
+| [Slides](#slides) | [Demos](demos/readme.md) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
 | 41 slides - 25 minutes, | 3 demos - 20 minutes, | 1 automated deployment
 
@@ -41,7 +41,27 @@ This training repository is divided in to the following sections:
 
 ## Slides
 
-...coming soon...
+THe slides are divises in four sections:
+
+ Section                    | Slides        | Notes
+----------------------------|---------------|------
+What’s serverless?          | 4-18          | It starts agnostic, then at slide 14 is Azure focus
+Azure Logic App and Flow    | 19-24, 25     | 
+Azure Function              | 26-32, 33, 34 |
+How it all works together   | 35            |
+
+### Timing
+
+| Time        | Description 
+--------------|-------------
+0:00 – 5:00   | Introduction / What is Serverless 
+5:00 – 10:00  | Overview of Azure Functions Ecosystem (Azure Functions, Logic Apps, Microsoft Flow) 
+10:00 – 15:00 | Microsoft Flow and Logic Apps 
+15:00 – 20:00 | Logic Apps **Demo** 
+20:00 – 25:00 | Azure Functions Overview (Languages, Pricing, Integration) 
+25:00 – 35:00 | Overview of creating an Azure Function in JavaScript **Demo**
+40:00 – 45:00 | Deploying an Azure Function to Azure using GitHub **Demo**
+40:00 – 45:00 | Using Azure Functions, Logic Apps and Microsoft Flow together 
 
 ## Deployment / Preparation
 
@@ -62,7 +82,7 @@ The following steps are necessary to prepare for AFUN95 demos.
  - Browser Tab - GitHub - this document. (https://github.com/microsoft/ignite-learning-paths/tree/afun95/fun/afun95)
  - ZoomIt (or another application that zoom your screen) should be running
  
- 
+
 ## Demos
 
 > What's Here? Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
