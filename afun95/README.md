@@ -1,4 +1,4 @@
-# APPS10: Options for Building and Running Your App in the Cloud  
+# AFUN95: Figuring Out Azure Functions​  
 
 ## Session Abstract
 
@@ -26,15 +26,15 @@ code.
 - [PowerPoint presentation](https://#)
 - [Full-length recording of presentation](https://#)
 - [Full-length recording of presentation - Director Cut](https://youtu.be/0kGGhoEB-48)
-- [Demo Instructions](https://#)
+- [Demo Instructions](https://github.com/FBoucher/ignite-learning-paths-training-afun/blob/master/afun95/demos/readme.md)
   
 
 ## Get Started
 
 This training repository is divided in to the following sections:
 
-| [Slides](slides/readme.md) | [Demos](/demos/readme.md) | [Deployment](/deployment/README.md) | 
-|--------|-------|------------|
+| [Slides](#slides) | [Demos](/demos/readme.md) | [Deployment](/deployment/README.md) | 
+|-------------------|---------------------------|--------------------------------------
 | 41 slides - 25 minutes, | 3 demos - 20 minutes, | 1 automated deployment
 
  [Full-length video can be viewed here (Coming Soon..)](https://coming.soon).
@@ -62,8 +62,7 @@ The following steps are necessary to prepare for AFUN95 demos.
  - Browser Tab - GitHub - this document. (https://github.com/microsoft/ignite-learning-paths/tree/afun95/fun/afun95)
  - ZoomIt (or another application that zoom your screen) should be running
  
-
-
+ 
 ## Demos
 
 > What's Here? Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
@@ -72,9 +71,9 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
-|  [1 - Create an Azure Logic App]()            | ?       | [Link]()
-|  [2 - Create a JavaScript Azure Function]()  | ?       | [Link]()
-|  [3 - Deploying Azure Function from GitHub]() | ?       | [Link]()
+|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---logic-app-demo)            | ?       | [Link]()
+|  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link]()
+|  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link]()
 
 
 ## Become a Presenter
