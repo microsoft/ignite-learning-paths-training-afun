@@ -96,7 +96,7 @@ Detailed explanations of each demonstration associated with this presentation ca
 |  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link]()
 
 
-## Become a Presenter
+## Become a Certified Presenter
 
 To become a certified presenter, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
