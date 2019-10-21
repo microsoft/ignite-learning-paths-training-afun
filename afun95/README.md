@@ -67,21 +67,8 @@ How it all works together   | 35            |
 
 The following steps are necessary to prepare for AFUN95 demos.
 
-- Until the magic button is done we need to do a few steps manually
-- Create an Node.js Function App
-- Create an Empty Logic App
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths%2Fmaster%2Fafun%2Fafun95%2Fdeployment%2FdeployAzure.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
-### Suggested Presentation SetUp
- 
- You should have a few things open a ready: 
-
- - PowerPoint
- - Browser Tab - Portal Azure - Dashboard/ home
- - Browser Tab - Portal Azure - Function App (with out any Functions)
- - Browser Tab - Portal Azure - Logic App Overview blade 
- - Browser Tab - GitHub - this document. (https://github.com/microsoft/ignite-learning-paths/tree/afun95/fun/afun95)
- - ZoomIt (or another application that zoom your screen) should be running
- 
 
 ## Demos
 
