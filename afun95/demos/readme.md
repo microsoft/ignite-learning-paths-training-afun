@@ -22,17 +22,14 @@ In this demo, we will see an Azure Logic App triggered by an HTTP Get command cr
 
 > Open the Browser Tab - Portal Azure - Logic App Overview blade 
 
-On the Azure Logic App blade, click the **Logic app designer** from the left panel. Alternatively, you can also click **Edit** in the top menu. 
-
-We are now in the Designer view. There is currently two boxes: an HTTP Trigger, and a OneDrive action. 
+On the Azure Logic App blade, click the **Logic app designer** from the left panel. Alternatively, you can also click **Edit** in the top menu. We are now in the Designer view. There is currently two boxes: an HTTP Trigger, and a OneDrive action. 
 
 > Explains how the connection are saved in Azure. SO it secure and you don't need to enter any credential while using the Azure Logic App.
 
 ### Add an Action
 
-> Explain that if we would execute the Logic now the caller wouldn't have any indication of success failure. This is why you will add an HTTP Response. 
+Explain that if we would execute the Logic now the caller wouldn't have any indication of success failure. This is why you will add an HTTP Response. Click the **+ New step** bellow the last step *Create File*. In the search bar type `Response` then select the **Response Request**. Enter `200` as Status Code. 
 
-Click the **+ New step** bellow the last step *Create File*. In the search bar type `Response` then select the **Response Request**. Enter `200` as Status Code. 
 
 For the body we will use the **dynamic content**, it's one of the great features about Azure Logic App. Each property of the previous step will be present in a dynamic menu, you just need to click on it to use them. Type `The file `. Then from the dynamic content click on **Display Name** in the OneDrive content (It's the one with the OneDrive logo on the side). Then type ` was created`.
 

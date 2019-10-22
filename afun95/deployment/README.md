@@ -28,6 +28,7 @@ Simply by pressing the blue "*Deploy to Azure*" button below, will create all th
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths%2Fmaster%2Fafun%2Fafun95%2Fdeployment%2FdeployAzure.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
 
+
 ### Post-Deployment Steps
 
 #### OneDrive Connection
@@ -45,6 +46,8 @@ By default, the Azure Logic App while creates the file into the folder */IgniteD
 > You should create a */IgniteDemo* folder closer as possible to the Root. Also if you prefer you can use DropBox or another folder online service.
 
 You are now ready to present.
+
+
 
 ## **IMPORTANT:** When you are done
 
