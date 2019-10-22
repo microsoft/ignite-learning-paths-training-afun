@@ -63,25 +63,13 @@ How it all works together   | 35            |
 40:00 – 45:00 | Deploying an Azure Function to Azure using GitHub **Demo**
 40:00 – 45:00 | Using Azure Functions, Logic Apps and Microsoft Flow together 
 
+
 ## Deployment / Preparation
 
-The following steps are necessary to prepare for AFUN95 demos.
+>**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
 
-- Until the magic button is done we need to do a few steps manually
-- Create an Node.js Function App
-- Create an Empty Logic App
+[Instructions and prerequisites are outlined here](deployment/README.md). 
 
-### Suggested Presentation SetUp
- 
- You should have a few things open a ready: 
-
- - PowerPoint
- - Browser Tab - Portal Azure - Dashboard/ home
- - Browser Tab - Portal Azure - Function App (with out any Functions)
- - Browser Tab - Portal Azure - Logic App Overview blade 
- - Browser Tab - GitHub - this document. (https://github.com/microsoft/ignite-learning-paths/tree/afun95/fun/afun95)
- - ZoomIt (or another application that zoom your screen) should be running
- 
 
 ## Demos
 
@@ -91,7 +79,7 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
-|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---logic-app-demo)            | ?       | [Link]()
+|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link]()
 |  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link]()
 |  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link]()
 
