@@ -10,7 +10,9 @@
  - Browser Tab - Portal Azure - Logic App Overview blade 
  - Browser Tab - GitHub - on the demo page. (https://github.com/microsoft/ignite-learning-paths/tree/master/afun/afun95)
  - ZoomIt (or another application that zoom your screen) should be running
- 
+
+---
+
 ## Demo 1 - Azure Logic App Demo
 
 In this demo, we will see an Azure Logic App triggered by an HTTP Get command creating a file in a OneDrive folder with dynamic content base on the parameter received via the HTTP call.
@@ -58,6 +60,8 @@ Now Press Enter.
 You should see the response we created: `The file test.txt was created`. Now open the destination folder in OneDrive and open that `test.txt` file...
 
 You can now return to the slide.
+
+---
 
 ## Demo 2 - JavaScript Function Demo
 
@@ -120,6 +124,8 @@ Creating, updating and using Azure Function is that easy. You are now ready to c
 
 > Take a few moment to introduce the next demo.
 > In the previous demo, we saw how easy it is to use the Azure Portal to create some Azure Function. That might be fantastic for a first experience, but in a development environment that won't scale very well. Since you probably use a Git (or another repository), let's see how to deploy the same Azure Function from an online git: GitHub. 
+
+---
 
 ## Demo 3 - Deploying from GitHub Demo
 

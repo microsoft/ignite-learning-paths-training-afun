@@ -63,11 +63,12 @@ How it all works together   | 35            |
 40:00 – 45:00 | Deploying an Azure Function to Azure using GitHub **Demo**
 40:00 – 45:00 | Using Azure Functions, Logic Apps and Microsoft Flow together 
 
+
 ## Deployment / Preparation
 
-The following steps are necessary to prepare for AFUN95 demos.
+>**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths%2Fmaster%2Fafun%2Fafun95%2Fdeployment%2FdeployAzure.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
+[Instructions and prerequisites are outlined here](deployment/README.md). 
 
 
 ## Demos
@@ -78,7 +79,7 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
-|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---logic-app-demo)            | ?       | [Link]()
+|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link]()
 |  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link]()
 |  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link]()
 
