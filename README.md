@@ -25,9 +25,9 @@ Here all the sessions available in the **AFUN** - Azure Fundamentals Learning Pa
 
 To know more about about to contribute to this project please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) page.
 
-## Become a Certified Presenter
+## Become a Trained Presenter
 
-To become a *Trained Presenters*, contact [learningpathmanager@microsoft.com](mailto:learningpathmanager@microsoft.com). In your email please include:
+To become a *Trained Presenter*, contact [learningpathmanager@microsoft.com](mailto:learningpathmanager@microsoft.com). In your email please include:
 
 - Complete name:
 - The code of this presentation: \<Session Code (ex:apps10)\>
