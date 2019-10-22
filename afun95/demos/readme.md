@@ -5,6 +5,7 @@
  You should have a few things open a ready: 
 
  - PowerPoint
+ - Browser Tab - OneDrive - IgniteDemo Folder
  - Browser Tab - Portal Azure - Dashboard/ home
  - Browser Tab - Portal Azure - Function App (with out any Functions)
  - Browser Tab - Portal Azure - Logic App Overview blade 
@@ -23,19 +24,15 @@ In this demo, we will see an Azure Logic App triggered by an HTTP Get command cr
 
 On the Azure Logic App blade, click the **Logic app designer** from the left panel. Alternatively, you can also click **Edit** in the top menu. 
 
-We are now in the Designer view. There is currently two boxes: an HTTP Trigger, and a OneDrive action. Before we can try it we need to give access to the Azure Logic App to your OneDrive.
+We are now in the Designer view. There is currently two boxes: an HTTP Trigger, and a OneDrive action. 
 
-> Note that there is a little icon ⚠️ to show that this action required our attention
-
-Click on the second Box, named Connections. There is a message saying: "Invalid connection". It's normal it wasn't configured. Let's fix that. Click on the **Add new** button. This will popup a login window, where you will need to enter your OneDrive credentials.
-
-By default, the Azure Logic App while creates the file into the folder */IgniteDemo*. If you don't have it, create it from your OneDrive or select another folder.
-
-> You should create a */IgniteDemo* folder closer as possible to the Root. Also if you prefer you can use DropBox or another folder online sevice.
+> Explains how the connection are saved in Azure. SO it secure and you don't need to enter any credential while using the Azure Logic App.
 
 ### Add an Action
 
-Explain that if we would execute the Logic now the caller wouldn't have any indication of success failure. This is why you will add an HTTP Response. Click the **+ New step** bellow the last step *Create File*. In the search bar type `Response` then select the **Response Request**. Enter `200` as Status Code. 
+> Explain that if we would execute the Logic now the caller wouldn't have any indication of success failure. This is why you will add an HTTP Response. 
+
+Click the **+ New step** bellow the last step *Create File*. In the search bar type `Response` then select the **Response Request**. Enter `200` as Status Code. 
 
 For the body we will use the **dynamic content**, it's one of the great features about Azure Logic App. Each property of the previous step will be present in a dynamic menu, you just need to click on it to use them. Type `The file `. Then from the dynamic content click on **Display Name** in the OneDrive content (It's the one with the OneDrive logo on the side). Then type ` was created`.
 

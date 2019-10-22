@@ -23,9 +23,8 @@ code.
 ## Assets in Train-The-Trainer kit
 
 - This guide
-- [PowerPoint presentation](https://#)
-- [Full-length recording of presentation](https://#)
-- [Full-length recording of presentation - Director Cut](https://youtu.be/0kGGhoEB-48)
+- [PowerPoint presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/AFUN95_Azure%20Functions.pptx)
+- [Full-length recording of presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4)
 - [Demo Instructions](https://github.com/FBoucher/ignite-learning-paths-training-afun/blob/master/afun95/demos/readme.md)
   
 
@@ -37,7 +36,7 @@ This training repository is divided in to the following sections:
 |-------------------|---------------------------|--------------------------------------
 | 41 slides - 25 minutes, | 3 demos - 20 minutes, | 1 automated deployment
 
- [Full-length video can be viewed here (Coming Soon..)](https://coming.soon).
+ [Full-length video can be viewed here](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4).
 
 ## Slides
 
@@ -79,9 +78,9 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
-|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link]()
-|  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link]()
-|  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link]()
+|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo1.mp4)
+|  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo2.mp4)
+|  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo3.mp4)
 
 
 ## Become a Certified Presenter
