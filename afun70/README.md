@@ -23,13 +23,13 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/afun70.pptx)</li>
-<li>[Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70 Demo Guide.docx)</li>
-<li>[Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4)</li>
-<li>[Director's Cut of Presentation]()</li>
-</ul>
+
+- This guide
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/afun70.pptx)
+- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70%20Demo%20Guide.docx)
+- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4)
+- [Director's Cut of Presentation](#)
+
 
 ### Deployment
 
@@ -37,10 +37,9 @@ Almost all sessoins can be performed from a trial Azure subscription. Instructio
 
 ### Demo Videos
 
-<ul>
-<li>[Demo 1: Azure Pricing Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/1. Azure Pricing Calculator Edit No Audio OT.mp4)</li>
-<li>[Demo 2: Azure TCO Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/2. Azure TCO Calculator Edit No Audit OT.mp4)</li>
-<li>[Demo 3: Azure Budgets](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/3. Azure Budgets Edited No Audio OT.mp4)</li>
-<li>[Demo 4: Azure Cost Analysis ](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/4. Azure Cost Analysis Edit No Audio OT.mp4)</li>
-<li>[Demo 5: Azure Advisor](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/5. Azure Advisor Edit No Audio OT.mp4)</li>
-</ul>
+- [Demo 1: Azure Pricing Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/1.%20Azure%20Pricing%20Calculator_Edited.mp4)
+- [Demo 2: Azure TCO Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/2.%20Azure%20TCO%20Calculator%20Edit%20No%20Audit%20OT.mp4)
+- [Demo 3: Azure Budgets](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/3.%20Azure%20Budgets%20Edited%20No%20Audio%20OT.mp4)
+- [Demo 4: Azure Cost Analysis ](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/4.%20Azure%20Cost%20Analysis%20Edit%20No%20Audio%20OT.mp4)
+- [Demo 5: Azure Advisor](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/5.%20Azure%20Advisor%20Edit%20No%20Audio%20OT.mp4)
+

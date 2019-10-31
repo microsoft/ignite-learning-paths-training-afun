@@ -2,6 +2,8 @@
 
 ## Session Abstract
 
+Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service.
+
 ## How to use this repository
 
 Welcome, Presenter!
