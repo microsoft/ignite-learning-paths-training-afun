@@ -6,13 +6,14 @@ Tailwind Traders wants to improve the security of their workloads that are runni
 ## Session Story
 
 In this session you’ll demonstrate how Tailwind Traders was able to perform traditional virtual machine management tasks using the tools that are built into Azure. You’ll be using the fictional company “Tailwind Traders” as a narrative device. Tailwind Traders represents “everyone”. In this case they’ve deployed virtual machines to the cloud, but they don’t have much understanding of what they need to do to perform traditional VM management tasks with those resources. They have assumed, incorrectly, that by deploying a VM to the cloud, all of the traditional things, like VM backup and operating system updates are automatically taken care of for them by Microsoft.
-<ul>
-<li>You’ll start the session by providing a reminder about the shared responsibility model. You do this to contextualize the session and to remind the audience that while the security of the underlying fabric and infrastructure is Microsoft’s responsibility, the management and security of the IaaS VM workloads that organizations deploy to Azure is the responsibility of the subscription owner. In other words, Tailwind Traders has it wrong and Microsoft doesn’t handle things such as automatically backing up their VMs and applying software updates as they become available.</li>
-<li>You’ll move on to showing attendees how Tailwind Traders was able to allow secure administrative connections to VMs running in their subscription without allowing access to any RDP or SSH client on the internet. You’ll demonstrate how secure connections can be made without a VPN to an IaaS VM that does not have a public IP address using Bastion and how Just In Time VM access is configured and functions. This solves a problem Tailwind Traders has where some administrators opened up RDP and SSH to every host on the internet.</li>
-<li>You’ll next show how the native backup and recovery functionality of Azure can be enabled to allow Tailwind Traders to automatically backup and recover entire VMs. You’ll also show how this functionality can be leveraged to backup and recover SQL instances running within VMs. This allows Tailwind Traders to recover VMs and SQL databases in the event of data corruption or other problems.</li>
-<li>The next step is demonstrating how you can configure and manage software updates for both Tailwind Trader’s Windows and Linux virtual machines running in Azure. This will allow Tailwind Traders to be sure that their VMs are as secure as possible when it comes to software updates.</li>
-<li>You’ll then show attendees how Tailwind Traders was able to ensure that changes made to virtual machines, such as the installation of applications and packages, can be tracked by enabling Inventory and Change Tracking. This allows Tailwind Traders to be notified if unusual software is deployed within their VMs.</li>
-</ul>
+
+- You’ll start the session by providing a reminder about the shared responsibility model. You do this to contextualize the session and to remind the audience that while the security of the underlying fabric and infrastructure is Microsoft’s responsibility, the management and security of the IaaS VM workloads that organizations deploy to Azure is the responsibility of the subscription owner. In other words, Tailwind Traders has it wrong and Microsoft doesn’t handle things such as automatically backing up their VMs and applying software updates as they become available.
+- You’ll move on to showing attendees how Tailwind Traders was able to allow secure administrative connections to VMs running in their subscription without allowing access to any RDP or SSH client on the internet. You’ll demonstrate how secure connections can be made without a VPN to an IaaS VM that does not have a public IP address using Bastion and how Just In Time VM access is configured and functions. This solves a problem Tailwind Traders has where some administrators opened up RDP and SSH to every host on the internet.
+- You’ll next show how the native backup and recovery functionality of Azure can be enabled to allow Tailwind Traders to automatically backup and recover entire VMs. You’ll also show how this functionality can be leveraged to backup and recover SQL instances running within VMs. This allows Tailwind Traders to recover VMs and SQL databases in the event of data corruption or other problems.
+- The next step is demonstrating how you can configure and manage software updates for both Tailwind Trader’s Windows and Linux virtual machines running in Azure. This will allow Tailwind Traders to be sure that their VMs are as secure as possible when it comes to software updates.
+- You’ll then show attendees how Tailwind Traders was able to ensure that changes made to virtual machines, such as the installation of applications and packages, can be tracked by enabling Inventory and Change Tracking. This allows Tailwind Traders to be notified if unusual software is deployed within their VMs.
+
+
 Many organizations are like Tailwind Traders and assume that because they have heard the functionality to do things like automatically back up virtual machines and apply software updates exists within Azure, it is turned on by default. In presenting this session you’ll help attendees understand that it is their organization’s responsibility under the shared responsibility model to leverage the tools that are provided for them, and that Microsoft does not enable these features by default.
 
 ## How to use this repository
@@ -35,13 +36,12 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/afun40.pptx)</li>
-<li>[Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN%2040%20LAB%20NOTES-Draft1.docx)</li>
-<li>[Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4)</li>
-<li>[Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-DIRECTOR-CUT.mp4)</li>
-</ul>
+- This guide</li>
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/afun40.pptx)
+- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN%2040%20LAB%20NOTES-Draft1.docx)
+- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4)
+- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-DIRECTOR-CUT.mp4)
+
 
 ### Deployment
 
@@ -49,12 +49,12 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ### Demo Videos
 
-<ul>
-<li>[Demo-1-ASC-Secure-Score](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-1-ASC-Secure-Score.mp4)</li>
-<li>[Demo-2-ASC-Compliance](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-2-ASC-Compliance.mp4)</li>
-<li>[Demo-3-Resource-Security-Hygiene](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-3-Resource-Security-Hygiene.mp4)</li>
-<li>[Demo-4-PIM](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-4-PIM.mp4)</li>
-<li>[Demo-5-Storage-Firewall](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-5a-Storage-Firewall.mp4)</li>
-<li>[Demo-6-Azure-SQL-Security](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-6-Azure-SQL-Security.mp4)</li>
-<li>[Demo-7-Azure-Sentinel](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-7-Azure-Sentinel.mp4)</li>
-</ul>
+- [Demo-1-ASC-Secure-Score](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-1-ASC-Secure-Score.mp4)
+- [Demo-2-ASC-Compliance](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-2-ASC-Compliance.mp4)
+- [Demo-3-Resource-Security-Hygiene](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-3-Resource-Security-Hygiene.mp4)
+- [Demo-4-PIM](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-4-PIM.mp4)
+- [Demo-5-Storage-Firewall](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-5a-Storage-Firewall.mp4)
+- [Demo-6-Azure-SQL-Security](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-6-Azure-SQL-Security.mp4)
+- [Demo-7-Azure-Sentinel](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-7-Azure-Sentinel.mp4)
+
+

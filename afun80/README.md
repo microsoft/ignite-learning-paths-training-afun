@@ -23,13 +23,13 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/afun80.pptx)</li>
-<li>[Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN 80 LAB NOTES-Draft1.docx)</li>
-<li>[Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN80 Governance Azure Fundamentals.mp4)</li>
-<li>[Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/FUN80 Directors Cut.mp4)</li>
-</ul>
+
+- This guide
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/afun80.pptx)
+- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN%2080%20LAB%20NOTES-Draft1.docx)
+- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN80%20Governance%20Azure%20-%20Fundamentals.mp4)
+- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/FUN80%20Directors%20Cut.mp4)
+
 
 ### Deployment
 
@@ -37,10 +37,10 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ### Demo Videos
 
-<ul>
-<li>[Demo 1: VM RBAC policy](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/1 VM RBAC.mp4)</li>
-<li>[Demo 2: Block VM SKU](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/2 POLICY BLOCK VM SKU.mp4)</li>
-<li>[Demo 3: Enforce Tags](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/3 Enforce Tags.mp4)</li>
-<li>[Demo 4: New Management Group](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/4 New Management Group Final.mp4)</li>
-<li>[Demo 5: Blueprints](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/5 Blueprints Demo.mp4)</li>
-</ul>
+
+- [Demo 1: VM RBAC policy](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/1%20VM%20RBAC.mp4)
+- [Demo 2: Block VM SKU](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/2%20POLICY%20BLOCK%20VM%20SKU.mp4)
+- [Demo 3: Enforce Tags](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/3%20Enforce%20Tags.mp4)
+- [Demo 4: New Management Group](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/4%20New%20Management%20Group%20Final.mp4)
+- [Demo 5: Blueprints](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/5%20Blueprints%20Demo.mp4)
+
