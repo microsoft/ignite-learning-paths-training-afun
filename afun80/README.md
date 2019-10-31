@@ -3,6 +3,18 @@
 ## Session Abstract
 Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.
 
+## Session Story
+In this session you’ll demonstrate how Tailwind traders wants to ensure that their current and future Azure workloads adhere to a strict set of guidelines around what can be deployed and how it is configured. You'll showcase how Tailwind Traders met its compliance obligations by implementing Azure governance technologies.
+<ul>
+<li>You will demonstrate how Governance addresses a million reasons why you would want to enforce rules.  It might be about security, it might be about a set of compliance benchmarks. But when you boil it down, what you want to do, is you want to specify the properties of things that you've got running those properties might be that it made might need to be named in a certain way that certain people might need to have access to it but that's a way of thinking about governance.</li>
+<li>You’ll demonstrate how Tailwind Traders harnessed RBAC as a governance technology to control permissions in restricting open access to manage VMs within the Azure Portal and breakdown the components that make RBAC work</li>
+<li>You will highlight Azure Policy enablement on resource usage restriction and asset tagging, creation of custom policy JSON scripts, and detailed its differences from RBAC</li>
+<li>You’ll demo the use of Management groups to enforce multiple subscriptions under the same rules detailed through RBAC and Azure Policy</li>
+<li>You will detail the use of Azure Blueprints to highlight how the creation of new resources can automatically adhere to set parameters based on Tailwind Traders requirements</li>
+</ul>
+ 
+By the end of the session you will have taken the audience through some basic Azure Governance concepts by solving real world problems that customers have. 
+
 ## How to use this repository
 Welcome, Presenter!
 
