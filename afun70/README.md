@@ -1,7 +1,26 @@
-# Keeping coss down in Azure
+# Keeping costs down in Azure
 
 ## Session Abstract
 Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.
+
+## Session Story
+
+Within this session we are talking about a fictional customer called “Tailwind Traders”.   They are looking to migrate their workloads to the cloud and have approached us for advice around cost management within the cloud.
+
+<li>We start off the session talking about on-prem workloads and how we are familiar with pricing them up and their various components and highlighting that there are often costs we forget about in the on prem world and we set the scene that costing up virtual machines in Azure is different.</li>
+<li>Our aim is to take the audience and Tailwind Traders through three key stages of cost management, estimating cloud costs, setting cost guardrails and reviewing actual costs.</li>
+<li>Within the Estimating Cloud Costs section of the session, we talk about the importance of there being no fixed cost for the cloud and it all depends.  We introduce the audience to the Azure Pricing Calculator and demonstrate how it can be used to estimate the cost of the workloads we wish to host within Azure.   We also cover off that it’s not just the people deploying the workloads that are responsible for keeping an eye on costs and that it’s a community approach from Chief Financial Officer(CFO) to IT Pro.</li>
+<li>We also introduce the audience to the notion that when moving to the cloud it can be a bit complex as we maybe deploying that workload in a different way in the cloud, i.e VMs on prem and serverless in the cloud.</li>
+<li>We then go on to elaborate on how pricing up the cloud can depend.  And talk about how design decisions such as which disk type you use or the region you use can affect cost.  And remind the audience to be mindful of these things during their design phase.</li>
+<li>Another common question by customers is “Will the cloud be cheaper?” And our fictional customers, Tailwind Traders are no different.  This is the section where we introduce the Azure Total Cost of Ownership calculator and show the audience how you can use it to compare cloud costs with on prem costs.</li>
+<li>The second section Setting up Cost Guardrails, this section isn’t about highlighting how we stop innovation, it’s about showing we can protect the people deploying solutions and the company from spending far to much by mistake.</li>
+<li>We introduce RBAC roles and how we can share set up roles for the CFO to see the cost data but not interact with the resources etc.  We also talk about how tags can be used to track costs and then using Azure Policy to enforce those tags.  This session just plants the seeds for using these products in Azure for cost management purposes.</li>
+<li>Tailwind Traders are hoping to be able to track where they are with the spend before the bill comes in and this is where we suggest using Azure budgets to set up tracking and alerting for that purpose.</li>
+<li>The third section Reviewing Cost Actuals, starts off talking about how we can help Tailwind Traders understand the bill they now have.  We want to help them break down that bill and understand where they are spending the most money and identify those areas.  Here we introduce and demo Azure Cost Analysis to do this.</li>
+<li>Now they’ve reviewed their bill and can understand it, they want to try and find the areas for cost savings. And this is a common question out in the field. And we introduce and show how Azure Advisor recommendations can help with that.</li>
+<li>In the summary section of the presentation we talk to the audience and Tailwind Traders about how sometimes your bill can come out higher than expected but tooling won’t be able to explain all of that so it’s key to remember to speak to your staff to find out why and what has been happening. It could be that the bill is higher due to positive moves elsewhere. And we wrap up with some cost saving tips.</li> 
+</ul>
+By the end of the session the audience should have basic understanding of the cost management tools that are built into Azure and how to use them within a real world scenario by relating them to problems that the fictional customer Tailwind Traders has. 
 
 ## How to use this repository
 Welcome, Presenter!
@@ -28,7 +47,7 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/afun70.pptx)
 - [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70%20Demo%20Guide.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4)
-- [Director's Cut of Presentation](#)
+- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Directors-Cut.mp4)
 
 
 ### Deployment
