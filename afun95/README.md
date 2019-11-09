@@ -4,8 +4,6 @@
 
 Tailwind Traders is curious about the concept behind "serverless" computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.  
 
-The session [Ignite Learning Paths - AFUN95](https://github.com/microsoft/ignite-learning-paths/tree/master/afun/afun95).
-
 ## How To Use
 
 Welcome, Presenter! 
