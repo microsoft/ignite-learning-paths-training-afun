@@ -1,0 +1,16 @@
+
+
+# Simple debugging tools to test the ARM template
+# It's great when use in VSCode with the Azure CLI extension
+
+#Create a Resource Group
+az group create -n IgniteAFun95-Test -l eastus
+
+# validate command
+az group deployment validate -g IgniteAFun95-Test --template-file "deployment/deployAzure.json" --verbose 
+
+# validate with Parameter file
+az group deployment validate -g IgniteAFun95-Test --template-file "deployment/deployAzure.json" --parameters "deployment/deployAzure.parameters.json"  --verbose 
+
+# deploy it
+az group deployment create -n Test1 -g IgniteAFun95-Test --template-file "deployment/deployAzure.json" --parameters "deployment/deployAzure.parameters.json"  --verbose 
