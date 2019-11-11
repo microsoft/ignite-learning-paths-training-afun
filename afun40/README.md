@@ -1,4 +1,6 @@
-# Azure Security Fundamentals
+# AFUN40: Azure Security Fundamentals
+
+ ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
 
 ## Session Abstract
 Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.

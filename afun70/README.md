@@ -1,4 +1,6 @@
-# Keeping costs down in Azure
+# AFUN70: Keeping costs down in Azure
+
+ ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
 
 ## Session Abstract
 Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.

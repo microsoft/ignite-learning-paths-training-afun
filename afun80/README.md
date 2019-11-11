@@ -1,4 +1,6 @@
-# What you need to know about Governance within Azure
+# AFUN80: What you need to know about Governance within Azure
+
+ ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
 
 ## Session Abstract
 Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.
