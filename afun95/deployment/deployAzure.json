@@ -27,7 +27,7 @@
             "type":"string",
             "defaultValue":"[utcNow('yyyy-MM-dd')]",
             "metadata": {
-                "description": "Just a text value that express when it is safe to delete these resources"
+                "description": "Just a text value (format: yyyy-MM-dd) that express when it is safe to delete these resources"
             }
         },
         "OwnerName":{
@@ -290,7 +290,8 @@
             "name": "[variables('workflowFinalName')]",
             "location": "eastus",
             "dependsOn":[
-                 "[resourceId('Microsoft.Web/sites',variables('funcAppFinalName'))]"
+                 "[resourceId('Microsoft.Web/sites',variables('funcAppFinalName'))]",
+                 "[variables('finalAzFuncHttpTriggerID')]"
             ],
             "tags": {
                 "ExpireOn": "[parameters('ExpireOn')]",
