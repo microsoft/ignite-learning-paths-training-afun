@@ -51,6 +51,7 @@ This guide</li>
 - [Demo Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Demo%20Guide.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Identity%20Fundamentals.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Identity%20Fundamentals.mp4)
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN_90_IGNITE.mp4)
 
 
 ### Deployment
