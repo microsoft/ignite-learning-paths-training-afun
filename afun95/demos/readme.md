@@ -193,12 +193,79 @@ A frequent way to ease the process is to put that composed URL in an anchor. Cli
 
 > The deployment should be done now, return to the Azure Portal and execute the Function, check the code....
 
-Congrats all demos are done.
 
+
+---
+
+## Demo 4 - Using Azure Function with Azure Logic App
+
+After you deployed the Azure Function, during demo 3, let's go back to Azure portal in the Azure Logic App. We will use the freshly deployed Function to change our Logic App output.
+
+Open the Logic App in Edit mode. To make the call to the Azure Function, add an action between the Trigger and the *Create File*.
+
+![AddAzFunction][AddAzFunction]
+
+In the Search bar type "Function" and select the function App you just deployed, then select **SimpleHttpTrigger**.
+
+![SelectHttpTrigger][SelectHttpTrigger]
+
+Remember the Azure Function required a parameter `name`. In the **Request Body** section enter a simple JSON like this.
+
+```json
+{"name":""}
+```
+
+Now, while your cursor is placed between the two double-quotes, use the *Dynamic Content* menu to add the Trigger's **Queries**. Click the Save button.
+
+![AddQuery][AddQuery]
+
+The *Trigger Queries* contains a full JSON, and we only need the value of "salutation". We need to fix this.  Switch to the **Code View**.  Locate `SimpleHttpTrigger`.
+
+```json
+ "SimpleHttpTrigger": {
+    "inputs": {
+        "body": {
+            "name": "@{triggerOutputs()['queries']}"
+        },
+        "function": {
+            "id": "/subscriptions/....."
+        }
+    },
+    "runAfter": {},
+    "type": "Function"
+}
+```
+
+The change required is very simple. We need to specify witch value we need by adding `['salutation']` at the end of our *body* value. 
+
+```json
+ "SimpleHttpTrigger": {
+    "inputs": {
+        "body": {
+            "name": "@{triggerOutputs()['queries']['salutation']}"
+```
+
+Click the Save button and switch back to the **Designer** view
+
+Great, now that the Azure Function is properly called we will update the text save in the file to use this output.  Expend the **Create file** action. Delete the text in the of **File Content**. Use the *Dynamic Content* menu to add the **Body** of the **SimpleHttpTrigger**. 
+
+> You will probably need to click the "See more" button to see that option.
+
+![completedAzLogicApp][completedAzLogicApp]
+
+Save your work. You can now test your updated version of the Azure Logic App.
+
+The message in the text file should be something like: `Hello, it's still me Frank`
+
+---
+
+> Congrats all demos are done.
+
+---
 
 ## Teardown Instructions
 
-Navigate to the Azure Portal and delete the Azure Resource Group (ex: AFUN95demo) you created earlier. Deleting the Resource Group will delete all resources within. Once the command is started you don't need to way, the command is been executed in Azure. \
+Navigate to the Azure Portal and delete the Azure Resource Group (ex: AFUN95demo) you created earlier. Deleting the Resource Group will delete all resources within. Once the command is started you don't need to way, the command is been executed in Azure. 
 
 > Note: It's always a good idea to check again after a few hours or the next day to be sure you didn't forget a Resource Group.
 
@@ -208,3 +275,7 @@ Navigate to the Azure Portal and delete the Azure Resource Group (ex: AFUN95demo
 [azurelogicappurl]: assets/azurelogicappurl.png
 [addResponse]: assets/addResponse.png
 [functionUrl]: assets/functionUrl.png
+[AddAzFunction]: assets/AddAzFunction.png
+[SelectHttpTrigger]: assets/SelectHttpTrigger.png
+[AddQuery]: assets/AddQuery.png
+[completedAzLogicApp]: assets/completedAzLogicApp.png
