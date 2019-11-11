@@ -1,5 +1,7 @@
 # Ignite Learning Paths - Train the trainer - AFUN Learning Path
 
+![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)  ![Session](https://img.shields.io/badge/🗣️Sessions-10-31c754)
+
 Welcome, Presenter!
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team.
