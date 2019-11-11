@@ -41,6 +41,8 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN%2080%20LAB%20NOTES-Draft1.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN80%20Governance%20Azure%20-%20Fundamentals.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/FUN80%20Directors%20Cut.mp4)
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN_80_IGNITE.mp4)
+
 
 
 ### Deployment
