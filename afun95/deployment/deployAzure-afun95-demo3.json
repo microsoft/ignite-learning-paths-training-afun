@@ -1,5 +1,5 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
         "baseName": {
@@ -30,6 +30,7 @@
         "funcStorageName": "[tolower(concat(substring(parameters('baseName'), 0, min(length(parameters('baseName')),16)), 'stg', variables('suffix')))]",
         "serverFarmName": "[concat(substring(parameters('baseName'), 0, min(length(parameters('baseName')),14)), '-srv-', variables('suffix'))]",
         "repoURL": "[parameters('GitHubURL')]",
+        "functionProjectFolder": "afun95/demos/functionapp-demo",
         "storageAccountid": "[concat(resourceGroup().id,'/providers/','Microsoft.Storage/storageAccounts/', variables('funcStorageName'))]"
     },
     "resources": [
@@ -77,7 +78,7 @@
                         },
                         {
                             "name": "PROJECT",
-                            "value": "afun/afun95/functionapp-demo"
+                            "value": "[variables('functionProjectFolder')]"
                         }
                     ]
                 },
