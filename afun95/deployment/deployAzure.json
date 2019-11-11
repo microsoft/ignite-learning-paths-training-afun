@@ -122,18 +122,6 @@
                         "publishRunbook": true,
                         "IsManualIntegration": true
                     }
-               },
-               {
-                    "apiVersion": "2019-08-01",
-                    "name": "[concat(variables('funcAppFinalName'),'/SimpleHttpTrigger')]",
-                    "type": "Microsoft.Web/sites/functions",
-                    "dependsOn": [
-                      "[resourceId('Microsoft.Web/sites/', variables('funcAppFinalName'))]",
-                      "[resourceId('Microsoft.Web/Sites/sourcecontrols', variables('funcAppFinalName'), 'web')]"
-                    ],
-                    "properties":{
-                        
-                    }
                }
             ]
         },

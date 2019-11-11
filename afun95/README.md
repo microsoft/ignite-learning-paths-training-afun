@@ -1,8 +1,8 @@
-# AFUN95: Figuring Out Azure Functions​  
+# AFUN95: Figuring Out Azure Functions and Azure Logic Apps 
 
 ## Session Abstract
 
-Tailwind Traders is curious about the concept behind "serverless" computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.  
+Tailwind Traders is curious about the concept behind "serverless" computing – the idea that they can run small pieces of code in the cloud or workflow, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of using Azure Logic Apps and Azure Function working together.  
 
 ## How To Use
 
@@ -43,7 +43,7 @@ THe slides are divises in four sections:
  Section                    | Slides        | Notes
 ----------------------------|---------------|------
 What’s serverless?          | 4-18          | It starts agnostic, then at slide 14 is Azure focus
-Azure Logic App and Flow    | 19-24, 25     | 
+Azure Logic App             | 19-24, 25     | 
 Azure Function              | 26-32, 33, 34 |
 How it all works together   | 35            |
 
@@ -52,13 +52,12 @@ How it all works together   | 35            |
 | Time        | Description 
 --------------|-------------
 0:00 – 5:00   | Introduction / What is Serverless 
-5:00 – 10:00  | Overview of Azure Functions Ecosystem (Azure Functions, Logic Apps, Microsoft Flow) 
-10:00 – 15:00 | Microsoft Flow and Logic Apps 
-15:00 – 20:00 | Logic Apps **Demo** 
-20:00 – 25:00 | Azure Functions Overview (Languages, Pricing, Integration) 
-25:00 – 35:00 | Overview of creating an Azure Function in JavaScript **Demo**
-40:00 – 45:00 | Deploying an Azure Function to Azure using GitHub **Demo**
-40:00 – 45:00 | Using Azure Functions, Logic Apps and Microsoft Flow together 
+5:00 – 10:00  | Overview of Azure Functions Ecosystem (Azure Functions, Logic Apps) 
+10:00 – 15:00 | Logic Apps **Demo** 
+15:00 – 20:00 | Azure Functions Overview (Languages, Pricing, Integration) 
+20:00 – 30:00 | Overview of creating an Azure Function in JavaScript **Demo**
+30:00 – 35:00 | Deploying an Azure Function to Azure using GitHub **Demo**
+35:00 – 45:00 | Using Azure Functions, Logic Apps and Microsoft Flow together **Demo**
 
 
 ## Deployment / Preparation
@@ -72,7 +71,7 @@ How it all works together   | 35            |
 
 > What's Here? Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/readme.md).
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 4 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/readme.md).
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
