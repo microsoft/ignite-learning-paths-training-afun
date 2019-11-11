@@ -32,7 +32,7 @@ This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](demos/readme.md) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
-| 41 slides - 25 minutes, | 3 demos - 20 minutes, | 1 automated deployment
+| 41 slides - 20 minutes, | 4 demos - 25 minutes, | 1 automated deployment
 
  [Full-length video can be viewed here](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4).
 
@@ -79,6 +79,7 @@ Detailed explanations of each demonstration associated with this presentation ca
 |  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo1.mp4)
 |  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo2.mp4)
 |  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo3.mp4)
+|  [4 -  Using Azure Function with Azure Logic App](demos/readme.md#demo-4---using-azure-function-with-azure-logic-app) | ?       | [Link soon](#)
 
 
 
