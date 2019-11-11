@@ -48,6 +48,7 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70%20Demo%20Guide.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Directors-Cut.mp4)
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN_70_IGNITE.mp4)
 
 
 ### Deployment
