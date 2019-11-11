@@ -41,7 +41,7 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN%2040%20LAB%20NOTES-Draft1.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-DIRECTOR-CUT.mp4)
-
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN_40_IGNITE.mp4)
 
 ### Deployment
 
