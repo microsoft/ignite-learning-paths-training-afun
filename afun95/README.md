@@ -25,6 +25,7 @@ code.
 - This guide
 - [PowerPoint presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/AFUN95_Azure%20Functions.pptx)
 - [Full-length recording of presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4)
+- [Microsoft Ignite Orlando Session Video](https://myignite.techcommunity.microsoft.com/sessions/83218)
 - [Demo Instructions](https://github.com/FBoucher/ignite-learning-paths-training-afun/blob/master/afun95/demos/readme.md)
   
 
