@@ -86,17 +86,11 @@ To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:
 
 <table>
 <tr>
-    <td align="center"><a href="http://cloud5mins.com/">
-        <img src="https://avatars2.githubusercontent.com/u/2404846?s=460&v=4" width="100px;" alt="Frank Boucher"/><br />
-        <sub><b>Frank Boucher</b></sub></a><br />
-            <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=fboucher" title="talk">📢</a>
-            <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=fboucher" title="Documentation">📖</a> 
-    </td>
-    <td align="center"><a href="https://blogs.technet.microsoft.com/neilp/">
-        <img src="https://avatars3.githubusercontent.com/u/7844635?s=460&v=4" width="100px;" alt="Neil Peterson"/><br />
-        <sub><b>Neil Peterson</b></sub></a><br />
-            <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=neilpeterson" title="talk">🎨</a>
-            <a href="https://github.com/neilpeterson/ignite-tour-fy20/commits?author=neilpeterson" title="design">📖</a> 
+    <td align="center"><a href="https://jeramiah.net/">
+        <img src="https://avatars2.githubusercontent.com/u/4121105?s=460&v=4" width="100px;" alt="Jeramiah Dooley"/><br />
+        <sub><b>Jeramiah Dooley</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=FBoucher" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=FBoucher" title="Documentation">📖</a> 
     </td>
 </tr></table>
 
