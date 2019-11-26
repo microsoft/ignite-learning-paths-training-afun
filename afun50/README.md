@@ -1,6 +1,6 @@
 # AFUN50: Storing data in Azure
 
- ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
+ [![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-afun/)
 
  
 ## Session Abstract
@@ -29,25 +29,54 @@ code.
 2.  Watch the video presentation
 3.  Ask questions of the Lead Presenter
 
+## Get Started
 
-## Assets in Train-The-Trainer kit
+This training repository is divided in to the following sections:
 
-- This guide
-- PowerPoint presentation including notes for each slide [Here](https://AFUN50 - AFUN50_Storing_Data_in_Azure_MSIgnite.pptx)
-- Full-length recording of presentation [here](https://#)
-- Director Cut Full-length recording of presentation [here](https://AFUN50 - Demo 01 - Storage Account Demo.mp4) and [here](https://AFUN50 - Demo 02 - Cosmos DB Demo.mp4)
-- Individual recordings of stage-ready hands-on demos [here](https://#)
-- Demo Guide and ReadMe [here](https://AFUN50 - Script.docx)
+| [Slides](#slides) | [Demos](demos/README.md) |  
+|-------------------|---------------------------|
+| 39 slides         | 2 demos  |
+
+ [Full-length video can be viewed here](https://myignite.techcommunity.microsoft.com/sessions/83205).
+
+
+## Slides
+
+The [slides](presentations.md) are divided in five sections:
+
+ Section                                        | Slides           | Notes
+------------------------------------------------|---------------   |------
+Introduction                                    | 1-5              | 
+Storage in Azure: The Basics                    | 6-17, 18*, 19-20 | 
+Introduction to Cosmos DB​                       | 21-25, 26*, 27   | 
+SQL Server, PostgreSQL, and MySQL in Azure​      | 28-34            |
+Summary,  closing                               | 34-39            | 
+
+*slide demo
+
+
+## Demos
+
+> What's Here? Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 2 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+
+| Demo 	                                    | Minutes | Video
+--------------------------------------------|---------|-----------------
+|  [1 - Storage Account Demo](demos/README.md#demo-1---storage-account-demo)            | 00:03:24       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun50/AFUN50%20-%20Demo%2001%20-%20Storage%20Account%20Demo.mp4)
+|  [2 - Cosmos DB Demo](demos/README.md#demo-2---cosmos-db-demo)  | 00:02:01  | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun50/AFUN50%20-%20Demo%2002%20-%20Cosmos%20DB%20Demo.mp4)
+
+
 
 ## Become a Presenter
 
-To become a *Trained Presenters*, contact [learningpathmanager@microsoft.com](mailto: learningpathmanager@microsoft.com). In your email please include:
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: AFUN50>
-- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes). 
-
-> It doesn't need to be this content, the important is to show your presenter skills
+- The code of this presentation: \<Session Code (ex:APPS10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
 
 ## Trained Presenters
