@@ -33,9 +33,9 @@ code.
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) |  
-|-------------------|---------------------------|
-| 39 slides         | 2 demos  |
+| [Slides](#slides) | [Demos](#demos) |  
+|-------------------|-----------------|
+| 39 slides         | 2 demos         |
 
  [Full-length video can be viewed here](https://myignite.techcommunity.microsoft.com/sessions/83205).
 
