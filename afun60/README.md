@@ -26,13 +26,14 @@ Ask questions of the Lead Presented and trained speakers (list below).
 
 These instructions consist of image and PPT assets as well as instructions for deployment
 
-### Assets in Train-The-Trainer kit
+### Assets in Train-The-Trainer kit
 
 - This guide
 - [PowerPoint presentation and Speaker notes](presentations.md)
 - Demo Instructions
 - Full-length recording of presentation (Presenter 2)
-- [Full-length recording of presentation, Directors Cut](https://youtu.be/HQMoe4RENho)
+- [Full-length recording of presentation, Directors Cut](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/FUN60%20-%20Fundamentals%2060%2C%20Ignite%20the%20Tour%202019-2020.mp4)
+- [Ignite Orlando 2019 presentation by Shayne Boyer](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/AFUN60_Orlando_Ignite_Shayne_Boyer.mp4)
 
 ### Deployment
 
