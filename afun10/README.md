@@ -6,12 +6,13 @@
 
  ## Video Asset Links
 
- Create VM Demo - [Link](link)
+ Dry-run presentation [download](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-dry-run.mp4) and [YouTube](https://www.youtube.com/watch?v=Bak5cLz5crM&feature=youtu.be)
+ Create VM Demo - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-VM-Demo.mp4)
 
 
  ## PowerPoint Asset Links
 
- PowerPoint Deck - [Link](link)
+ PowerPoint Deck - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/afun10-2019-11_Nov-04.pptx)
 
  ## Demo Notes
 
