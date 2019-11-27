@@ -29,7 +29,7 @@ These instructions consist of image and PPT assets as well as instructions for d
 ### Assets in Train-The-Trainer kit
 
 - This guide
-- [PowerPoint presentation and Speaker notes](https://microsoft.sharepoint.com/:p:/t/CloudDevAdvocacy/EY-NxkmfzDpHpJm3d-CngPgBI4dIa9Y57hgkG02Kek95rQ?e=XaDlg0)
+- [PowerPoint presentation and Speaker notes](presentations.md)
 - Demo Instructions
 - Full-length recording of presentation (Presenter 2)
 - [Full-length recording of presentation, Directors Cut](https://youtu.be/HQMoe4RENho)
@@ -49,8 +49,8 @@ A "Deploy to Azure" button streamlines the process, but make sure you have creat
 | Demo  | Minutes | Video |
 |----------|----------|-------|
 |[ACI - Azure Container Instance](demos#demo-1---aci-time-permittting)|?   |[Link](about:blank)|
-|[Azure App Service](demos#demo-2---app-service)|?   |[Link](https://youtu.be/29rbeZxYaLQ)|
-|[Azure Kubernetes Service](demos#demo-3---aks)|?   |[Link](https://youtu.be/fWHkWUI9G_E)|
+|[Azure App Service](demos#demo-2---app-service)|?   |[Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/FUN60-app-service-demo.mp4)|
+|[Azure Kubernetes Service](demos#demo-3---aks)|?   |[Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/FUN60-aks-demo.mp4)|
 
 ## Become a Trained Presenter
 
