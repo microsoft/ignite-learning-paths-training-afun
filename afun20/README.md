@@ -7,6 +7,8 @@
  ## Video Asset Links
 
  Microsoft Ignite Orlando Sessions - [video](https://myignite.techcommunity.microsoft.com/sessions/83202?source=sessions)
+
+ Full dry-run - [video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20%20Dry-run%20.mp4)
  
  Create CDN Demo - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20-CDN-Demo.mp4)
 
