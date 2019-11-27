@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cd400f31-6f94-40ab-863a-673192a3c0d0/resourceGroups/AFUN30/providers/Microsoft.Web/sites/static-twt",
+    "appService.deploySubpath": "1 - html-docs-hello-world-twt-static"
+}
