@@ -6,6 +6,8 @@
 
  ## Video Asset Links
 
+ Full dry-run - [video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20%20Dry-run%20.mp4)
+
  Microsoft Ignite Orlando Session - [video](https://myignite.techcommunity.microsoft.com/sessions/83201?source=sessions) 
 
  Dry-run presentation [download](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-dry-run.mp4) and [YouTube](https://www.youtube.com/watch?v=Bak5cLz5crM&feature=youtu.be)
