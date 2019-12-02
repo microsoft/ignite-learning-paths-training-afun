@@ -6,9 +6,17 @@
 
 Tailwind Traders is curious about the concept behind "serverless" computing – the idea that they can run small pieces of code in the cloud or workflow, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of using Azure Logic Apps and Azure Function working together.  
 
+## Table of Content
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/83218) |
+| Demos             | - [Demo 1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            <br/>- [Demo 2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)<br/>- [Demo 3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) <br/>- [Demo 4 - Using Azure Function with Azure Logic App](demos/readme.md#demo-4---using-azure-function-with-azure-logic-app) |
+
 ## How To Use
 
-Welcome, Presenter! 
+Welcome! 
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
@@ -19,15 +27,6 @@ code.
 2.  Watch the video presentation
 3.  Ask questions of the Lead Presenter
 
-
-## Assets in Train-The-Trainer kit
-
-- This guide
-- [PowerPoint presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/AFUN95_Azure%20Functions.pptx)
-- [Full-length recording of presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-full-length.mp4)
-- [Microsoft Ignite Orlando Session Video](https://myignite.techcommunity.microsoft.com/sessions/83218)
-- [Demo Instructions](https://github.com/FBoucher/ignite-learning-paths-training-afun/blob/master/afun95/demos/readme.md)
-  
 
 ## Get Started
 
