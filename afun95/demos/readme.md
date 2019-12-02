@@ -16,6 +16,8 @@
 
 ## Demo 1 - Azure Logic App Demo
 
+> 💡 You must have completed the [deployment](../deployment/README.md) before attempting to do the demo.
+
 In this demo, we will see an Azure Logic App triggered by an HTTP Get command creating a file in a OneDrive folder with dynamic content base on the parameter received via the HTTP call.
 
 ### Azure Logic App
@@ -58,6 +60,8 @@ You can now return to the slide.
 ---
 
 ## Demo 2 - JavaScript Function Demo
+
+> 💡 You must have completed the [deployment](../deployment/README.md) before attempting to do the demo.
 
 In this demo we will show how easy it is to create a new JavaScript Azure Function. We will do it from the Portal.
 
@@ -122,6 +126,8 @@ Creating, updating and using Azure Function is that easy. You are now ready to c
 ---
 
 ## Demo 3 - Deploying from GitHub Demo
+
+> 💡 You must have completed the [deployment](../deployment/README.md) before attempting to do the demo.
 
 In this demo you will deploy an Azure Function directly from the GitHub using Azure Resource Manager (ARM) template.
 
@@ -198,6 +204,8 @@ A frequent way to ease the process is to put that composed URL in an anchor. Cli
 ---
 
 ## Demo 4 - Using Azure Function with Azure Logic App
+
+> 💡 You must have completed the [deployment](../deployment/README.md) before attempting to do the demo.
 
 After you deployed the Azure Function, during demo 3, let's go back to Azure portal in the Azure Logic App. We will use the freshly deployed Function to change our Logic App output.
 
