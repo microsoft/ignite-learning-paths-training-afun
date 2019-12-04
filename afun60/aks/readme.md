@@ -53,7 +53,7 @@ az provider register --namespace Microsoft.ContainerRegistry
 
 ### Automated Deployment
 
-To deploy the demo environment used for OPS20 - Responding To Incidents, [use the instructions found in the official deployment repository](https://github.com/microsoft/ignite-learning-paths/tree/master/ops/ops20) or just press the blue "Deploy to Azure" button below.
+To deploy the demo environment used for AFUN60 - Responding To Incidents, [use the instructions found in the official deployment repository](https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun60) or just press the blue "Deploy to Azure" button below.
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fneilpeterson%2Ftailwind-reference-deployment%2Fmaster%2Fdeployment-artifacts-aks%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
