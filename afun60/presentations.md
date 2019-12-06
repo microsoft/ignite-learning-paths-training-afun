@@ -4,6 +4,7 @@ This is a machine generated file, and should not be edited, as it will be overwr
 
 # AFUN60 Presentation Files
 
+- [.DS_Store](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/.DS_Store)
 - [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx)
 ---
 ## Historical Files
