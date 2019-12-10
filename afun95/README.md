@@ -77,10 +77,10 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo 	                                    | Minutes | Video
 --------------------------------------------|---------|-----------------
-|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo1.mp4)
-|  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo2.mp4)
-|  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | ?       | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo3.mp4)
-|  [4 -  Using Azure Function with Azure Logic App](demos/readme.md#demo-4---using-azure-function-with-azure-logic-app) | ?       | [Link soon](#)
+|  [1 - Create an Azure Logic App](demos/readme.md#demo-1---Azure-logic-app-demo)            | 5:11       | [Download video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo1.mp4)
+|  [2 - Create a JavaScript Azure Function](demos/readme.md#demo-2---javascript-function-demo)  | 7:16       | [Download video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo2.mp4)
+|  [3 - Deploying Azure Function from GitHub](demos/readme.md#demo-3---deploying-from-github-demo) | 8:38       | [Download video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo3.mp4)
+|  [4 -  Using Azure Function with Azure Logic App](demos/readme.md#demo-4---using-azure-function-with-azure-logic-app) | 2:41       | [Download video]([#](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-demo4.mp4))
 
 
 
