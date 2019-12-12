@@ -1,100 +1,90 @@
 # AFUN10: Discovering Microsoft Azure
 
- ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
+ [![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-afun)
  
- # AFUN10 Train the Trainer Resources
+## Session Abstract
 
- ## Video Asset Links
-
- Microsoft Ignite Orlando Session - [video](https://myignite.techcommunity.microsoft.com/sessions/83201?source=sessions) 
-
- Dry-run presentation [download](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-dry-run.mp4) and [YouTube](https://www.youtube.com/watch?v=Bak5cLz5crM&feature=youtu.be)
- 
- Create VM Demo - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-VM-Demo.mp4)
+New developers at Tailwind Traders have a saying about learning our technology platform: "it's like drinking from a firehose." Indeed, learning all Microsoft Azure services can seem overwhelming – especially if you're unfamiliar with Azure or the cloud in general. In this session, we start at the beginning, introducing Azure and the core concepts that are foundational to our cloud platform. We start with a discussion of what cloud computing is and what Azure offers you and your team. We then take a look at basic services and features, setting up an account and subscription along the way. Finally, we tour the Azure Portal and do a quick overview of the resources available and what they do.
 
 
- ## PowerPoint Asset Links
+## Table of Content
 
- PowerPoint Deck - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/afun10-2019-11_Nov-04.pptx)
-
- ## Demo Notes
-
- Before performing the demos, make sure you have set your account/machine to the correct Azure subscription. By default, the Azure CLI/Cloud Shell will default to your Visual Studio account, if you want to use a different subscription (like "Ignite the Tour") be sure to set this subscription in your browser/shell BEFORE starting the demos. Otherwise, if the proper resource groups are not present, the demo will fail.
-
- The following command sets the Azure subscription, replace ```"Ignite the Tour"``` with your own subscription name if you are not using that subscription.
-
- ``` az account set --subscription "Ignite the Tour"```
-
- It will be helpful to use a text-expander tool (on macOS you can use the built-in [text-replacement tool](https://support.apple.com/guide/mac-help/replace-text-punctuation-documents-mac-mh35735/mac) and on Windows the free [AutoHotKey](https://www.autohotkey.com/) is excellent -- third-party apps such as [TextExpander](https://textexpander.com/) are also wonderful) to store some of the commands you will be using.
-
- For example, I have a snippet named ```twtssh``` that expands to a public SSH key I auto-generated for this project.
-
- I have another snippet ```vmtwt``` that expands to 
- ```shell 
- az vm create \
-   --resource-group AFUN10 \
-   --name myVM \
-   --image UbuntuLTS \
-   --admin-username azureuser \
-   --generate-ssh-keys 
-   ```
-
-   If you choose to use text-snippets (highly recommended), follow the instructions [here](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys) to create your SSH key BEFORE your demos and save that resulting public SSH key to a snippet that can be used later/
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/AFUN10-dry-run.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/83201) |
+| Demos             | - [Demo 1 -  Browse the Azure Portal](demos.md#demo-1---browse-the-azure-portal)            <br/>- [Demo 2 - Create a JavaScript Azure Function](demos.md#demo-2---create-a-vm-in-the-portal-and-in-the-cloud-shell)
 
 
- ## Demo 1: Browse the Azure Portal
+## How To Use
 
- * Walk-through the portal. Show the new design (including where the sidebar is now hidden by default) and show different resources and resource types.
+Welcome! 
 
- * Click on the Cloud Shell icon and show the Azure Cloud Shell and how it can be used with Bash or PowerShell. Show ```code .``` if you want to show off the very basic Monaco integration (not to be confused with VS Online)
+We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
- * You can also choose to show the Azure CLI using the Windows Terminal (Cloud Shell or via the PowerShell Az extension) or on macOS/Linux (using the Azure CLI package)
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
+code.
 
- **Note:** Make sure you're using the "public" view of the Portal and not the Preview. This is the Public Portal URL https://portal.azure.com/?feature.customportal=false#home
-
- ## Demo 2: Create a VM in the Portal and in the Cloud Shell
-
- 1. Load the Azure Portal
- 2. Click on "Create a Resource"
- 3. Choose Ubuntu 18.04 LTS
- 4. Choose the proper subscription (most-likely, "Ignite the Tour)
- 5. Choose the existing resource group, "AFUN10" -- if this resource group does not exist for some reason, create it now.
- 6. Give the VM a unique name i.e. twt-[CITY] or ignite-tour-[CITY]
- 7. Choose the region, select US East US (this is the region of the AFUN10 resource group)
- 8. Select the Ubuntu LTS Image -- scroll through the options to show other image choices
- 9. For size, allow the default D2s v3 Option to exist -- you can show the other sizes available if you want
- 10. For auth type, you can choose a password or an SSH key, I prefer an SSH key. Enter in whatever username you want.
- 11. In the SSH field, enter in an SSH public key pre-generated (if you're using a snippet) OR fill out the password field instead
- 12. Choose your public inbound ports. By default, port 22 (SSH) is selected, I often select Port 80 and Port 443 for HTTP and HTTPS
- 13. Click Next and go to the Disks section
- 14. In Disks, select either Premium or Standard SSD (leaving the default is fine)
- 15. Click Next: Networking
- 16. Keep the Networking settings as default -- show that you could choose an existing virtual network if you wanted
- 17. Click Next:Management
- 18. Again, keep all options as default
- 19. Click Next: Advanced
- 20. Keep all default options -- at your discretion, show off the Extension options and the cloud-init options
- 21. Click Next:Tags
- 22. Explain how tagging works, do not fill out tags
- 23. Click Next: Review + Create
- 24. Ensure settings are correct, show how to download the ARM template, click the create button
-
- While the VM is being created in the Portal, click on the CloudShell button at the top of the Portal
-
- 1. Login, ensure you are in the same subscription as where you created your last VM
- 2. Choose "Bash" if you are given an option
- 3. Type in the following command (using a text snippet is highly recommended) 
- ``` shell 
- az vm create \
-   --resource-group AFUN10 \
-   --name myVM \
-   --image UbuntuLTS \
-   --admin-username azureuser \
-   --generate-ssh-keys
-   ```
-   4. Execute the snippet, explain what each command does -- i.e., creates a VM in resource group AFUN10, with the name myVM using the UbuntuLTS image with an admin username of azureuser and a generated SSH key
- 5. Watch as the VM is created
- 6. After the VM is created, go to the Azure Portal and show the resources in AFUN10, showing that both virtual machines now exist.
+1.  Read document in its entirety.
+2.  Watch the video presentation
+3.  Ask questions of the Lead Presenter
 
 
- 
+## Get Started
+
+This training repository is divided in to the following sections:
+
+| [Slides](#slides) | [Demos](demos.md) | [Deployment](deployment.md) | 
+|-------------------|---------------------------|--------------------------------------
+| 62 slides - 35 minutes, | 2 demos - 10 minutes, | 1 deployment process
+
+ [Full-length video can be viewed here](https://myignite.techcommunity.microsoft.com/sessions/83201).
+
+## Slides
+
+THe slides are devises in four sections:
+
+ Section                    | Slides        | Notes
+----------------------------|---------------|------
+What is Azure?              | 5-26          | 
+Demo 1                      | 27            | 
+Azure Resource Manager​      | 28-38         |
+Azure compute options       | 39-47         |
+Demo 2                      | 48            | 
+Azure compute options       | 49-57         |
+Ending                      | 57-62         |
+
+
+
+## Become a Trained Presenter
+
+To become a trained presenter, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+
+- Complete name:
+- The code of this presentation: afun95
+- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes). 
+  > It doesn't need to be this content, the important is to show your presenter skills
+
+A mentor will get back to you with the information on the process.
+
+## Trained Presenters
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://www.christina.is">
+        <img src="https://avatars2.githubusercontent.com/u/110683?s=460&v=4" width="100px;" alt="Christina Warren"/><br />
+        <sub><b>Christina Warren</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=filmgirl" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=filmgirl" title="Documentation">📖</a> 
+    </td>
+    <td align="center"><a href="http://cloud5mins.com/">
+        <img src="https://avatars2.githubusercontent.com/u/2404846?s=460&v=4" width="100px;" alt="Frank Boucher"/><br />
+        <sub><b>Frank Boucher</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=fboucher" title="Documentation">📖</a> 
+    </td>
+</tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
