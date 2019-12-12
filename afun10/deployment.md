@@ -1,4 +1,4 @@
-## Demo Notes
+## Demo Preparation / Setup
 
  Before performing the demos, make sure you have set your account/machine to the correct Azure subscription. By default, the Azure CLI/Cloud Shell will default to your Visual Studio account, if you want to use a different subscription (like "Ignite the Tour") be sure to set this subscription in your browser/shell BEFORE starting the demos. Otherwise, if the proper resource groups are not present, the demo will fail.
 
