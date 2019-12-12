@@ -4,7 +4,7 @@
 * Ensure that your kubectl is connected to your AKS cluster : az aks get-credentials -n <aks-name> -g <resource-group>
 
 | [README](/afun60/README.md) | [Slides](/afun60/presentations.md) | [AKS Deployment](/afun60/demos/README.md) | 
-|--------|-------|------------|-----------|
+|-----------------------------|------------------------------------|-------------------------------------------|
 
 ## Demo 1 - ACI (time permittting)
 
