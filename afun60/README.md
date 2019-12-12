@@ -12,7 +12,7 @@ Tailwind Traders is in the process of moving from pure virtual machine workloads
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Full-length recording of presentation, Directors Cut](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/FUN60%20-%20Fundamentals%2060%2C%20Ignite%20the%20Tour%202019-2020.mp4) <br/>- [Ignite Orlando 2019 presentation by Shayne Boyer](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/AFUN60_Orlando_Ignite_Shayne_Boyer.mp4)
-| Demos             | - |[ACI - Azure Container Instance](demos#demo-1---aci-time-permittting) <br/>- [Azure App Service](demos#demo-2---app-service)  <br/>- [Azure Kubernetes Service](demos#demo-3---aks)
+| Demos             | - [ACI - Azure Container Instance](demos#demo-1---aci-time-permittting) <br/>- [Azure App Service](demos#demo-2---app-service)  <br/>- [Azure Kubernetes Service](demos#demo-3---aks)
 
 ## How to use this repository
 
