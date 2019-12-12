@@ -6,6 +6,14 @@
 
 Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service.
 
+## Table of Content
+
+| Resources          | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Full-length recording of presentation, Directors Cut](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/FUN60%20-%20Fundamentals%2060%2C%20Ignite%20the%20Tour%202019-2020.mp4) <br/>- [Ignite Orlando 2019 presentation by Shayne Boyer](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/AFUN60_Orlando_Ignite_Shayne_Boyer.mp4)
+| Demos             | - |[ACI - Azure Container Instance](demos#demo-1---aci-time-permittting) <br/>- [Azure App Service](demos#demo-2---app-service)  <br/>- [Azure Kubernetes Service](demos#demo-3---aks)
+
 ## How to use this repository
 
 Welcome, Presenter!
@@ -30,8 +38,7 @@ These instructions consist of image and PPT assets as well as instructions for d
 
 - This guide
 - [PowerPoint presentation and Speaker notes](presentations.md)
-- Demo Instructions
-- Full-length recording of presentation (Presenter 2)
+- [Demo Instructions](demos/README.md)
 - [Full-length recording of presentation, Directors Cut](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/FUN60%20-%20Fundamentals%2060%2C%20Ignite%20the%20Tour%202019-2020.mp4)
 - [Ignite Orlando 2019 presentation by Shayne Boyer](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/AFUN60_Orlando_Ignite_Shayne_Boyer.mp4)
 
@@ -44,14 +51,6 @@ These instructions consist of image and PPT assets as well as instructions for d
 A "Deploy to Azure" button streamlines the process, but make sure you have created an account on Azure and generated a Service Principal ID and password before you press it.
 
 [Take me there ...](deployment/README.md)
-
-### Demos
-
-| Demo  | Minutes | Video |
-|----------|----------|-------|
-|[ACI - Azure Container Instance](demos#demo-1---aci-time-permittting)|?   |[Link](about:blank)|
-|[Azure App Service](demos#demo-2---app-service)|?   |[Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/FUN60-app-service-demo.mp4)|
-|[Azure Kubernetes Service](demos#demo-3---aks)|?   |[Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/FUN60-aks-demo.mp4)|
 
 ## Become a Trained Presenter
 
