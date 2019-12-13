@@ -1,6 +1,6 @@
 # AFUN60 (Tailwind Traders AKS Deployment)
 
-| [README](/afun60/README.md) | [Slides](/afun60/slides/README.md) | [Demos](/afun60/demos/README.md) | [AKS Deployment](/afun60/aks/README.md) | 
+| [README](/afun60/README.md) | [Slides](/afun60/presentations.md) | [Demos](/afun60/demos/readme.md) | [AKS Deployment](readme.md) | 
 |--------|-------|------------|-----------|
 
 ## Prerequisities
