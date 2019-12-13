@@ -3,7 +3,7 @@
 * Use https://shell.azure.com 
 * Ensure that your kubectl is connected to your AKS cluster : az aks get-credentials -n <aks-name> -g <resource-group>
 
-| [README](/afun60/README.md) | [Slides](/afun60/presentations.md) | [AKS Deployment](/afun60/demos/README.md) | 
+| [README](/afun60/README.md) | [Slides](/afun60/presentations.md) | [AKS Deployment](/afun60/aks/readme.md) |
 |-----------------------------|------------------------------------|-------------------------------------------|
 
 ## Demo 1 - ACI (time permittting)
