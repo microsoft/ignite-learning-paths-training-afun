@@ -12,7 +12,7 @@ Now that Tailwind Traders has decided to take the journey into the cloud, they n
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20%20Dry-run%20.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/83202) |
-| Demos             | - [Demo 1 -  Browse the Azure Portal](demos.md#demo-1---browse-the-azure-portal)            <br/>- [Demo 2 - Create a JavaScript Azure Function](demos.md#demo-2---create-a-vm-in-the-portal-and-in-the-cloud-shell)
+| Demos             | - [Demo 1 - Attach a CDN to an Existing Storage Account](demos.md#emos.md#demo-1-browse-the-azure-portals-networking-section) <br/>- [Demo 2 - Create a JavaScript Azure Function](demos.md#demo-2-attach-a-cdn-to-an-existing-storage-account)
 
 
 ## How To Use
@@ -29,15 +29,18 @@ code.
 3.  Ask questions of the Lead Presenter
 
 
+## Get Started
 
- ## Video Asset Links
+This training repository is divided in to the following sections:
 
- Microsoft Ignite Orlando Sessions - [video](https://myignite.techcommunity.microsoft.com/sessions/83202?source=sessions)
+| Slides | [Demos](demos.md) | [Deployment](deployment.md) | 
+|-------------------|---------------------------|--------------------------------------
+| 51 slides - 35 minutes, | 2 demos - 10 minutes, | 1 deployment process
 
- Full dry-run - [video](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20%20Dry-run%20.mp4)
+
+ ## Demos Video
  
  Create CDN Demo - [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun20/AFUN20-CDN-Demo.mp4)
-
 
 
 ## Become a Trained Presenter
