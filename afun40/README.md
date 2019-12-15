@@ -47,18 +47,22 @@ Ask questions of the Lead Presenter and trained speakers (list below).
 
 These instructions consist of the steps you should go through in preparing to present this content:
 
-### Assets in the Train-the-Trainer Kit
+## Get Started
 
-- This guide</li>
-- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/afun40.pptx)
-- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN%2040%20LAB%20NOTES-Draft1.docx)
-- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4)
+This training repository is divided in to the following sections:
+
+| [Slides](#slides) | [Demos](demos.md) | [Deployment](deployment.md) | 
+|-------------------|---------------------------|--------------------------------------
+| 38 slides  | 7 demos  | 1 deployment process
+
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-DIRECTOR-CUT.mp4)
-- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN_40_IGNITE.mp4)
+
 
 ### Deployment
 
 Almost all sessions can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
+
+[Instructions and prerequisites are outlined here](deployment.md). 
 
 ### Demo Videos
 
