@@ -12,12 +12,16 @@
 
 ## Demo 2 - App Service
 
+[Video - Orlando](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/AppService-Demo-Ignite-Orlando.mp4)
+
 * Portal : Create New Web App for Containers on Linux
 * Location: EASTUS
 * FREE Service Plan
 * SET microsoft/aci-helloworld as the image
 
 ## Demo 3 - AKS
+
+[Video - Orlando](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/demos/AKS-Demo-Ignite-Orlando.mp4)
 
 Get the deployment.yaml from a running pod
 
