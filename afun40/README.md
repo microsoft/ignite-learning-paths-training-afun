@@ -50,7 +50,7 @@ Ask questions of the Lead Presenter and trained speakers (list below).
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos.md) | [Deployment](deployment.md) | 
+| **Slides** | [Demos](demos.md) | [Deployment](deployment.md) | 
 |-------------------|---------------------------|--------------------------------------
 | 38 slides  | 7 demos  | 1 deployment process
 
@@ -77,14 +77,13 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ## Become a Presenter
 
-To become a **Trained Presenter**, contact scalablecontent@microsoft.com. 
-
-In your email please include:
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: apps11
-- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes).
-It doesn't need to be this content, the important is to show your presenter skills
+- The code of this presentation: \<Session Code (ex:APPS10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
 
 ## Trained Presenters
