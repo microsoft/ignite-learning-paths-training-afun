@@ -5,6 +5,14 @@
 ## Session Abstract
 Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN80%20Governance%20Azure%20-%20Fundamentals.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN_80_IGNITE.mp4) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/FUN80%20Directors%20Cut.mp4) |
+| Demos             | - [Demo 1 - VM RBAC Policy](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/1%20VM%20RBAC.mp4)  <br/>- [Demo 2 - Block VM SKU](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/2%20POLICY%20BLOCK%20VM%20SKU.mp4)  <br/>- [Demo 3 - Enforce Tags](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/3%20Enforce%20Tags.mp4)  <br/>- [Demo 4 - New Management Group](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/4%20New%20Management%20Group%20Final.mp4)  <br/>- [Demo 5 - Blueprints](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/5%20Blueprints%20Demo.mp4)  |
+
 ## Session Story
 In this session you’ll demonstrate how Tailwind traders wants to ensure that their current and future Azure workloads adhere to a strict set of guidelines around what can be deployed and how it is configured. You'll showcase how Tailwind Traders met its compliance obligations by implementing Azure governance technologies.
 <ul>
