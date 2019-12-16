@@ -12,7 +12,7 @@ Identity is the core of most workloads in Azure, and Tailwind Traders wants to i
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Identity%20Fundamentals.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN_90_IGNITE.mp4) |
-| Demos             | - [Demo 1: Create new user and convert to global administrator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/1.AAD-Rename-New-User-Global-Administrator.mp4)  <br/>- [Demo 2: Azure Active Directory Connect](#) <br/>- [Demo 3: Add External User](#) <br/>- [Demo 4: Self Service Password Reset](#)  <br/>- [Demo 5: Conditional Access](#) <br/>- [Demo 6: Custom Banned Password List](#)
+| Demos             | - [Demo 1: Create new user and convert to global administrator](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-1-configuring-azure-active-directory-and-an-administrator-account)  <br/>- [Demo 2: Azure Active Directory Connect](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-2-azure-ad-connect) <br/>- [Demo 3: Add External User](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-3-external-user) <br/>- [Demo 4: Self Service Password Reset](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-4-self-service-password-reset)  <br/>- [Demo 5: Conditional Access](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-5-conditional-access) <br/>- [Demo 6: Custom Banned Password List](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/afun90-reformat/afun90/demos.md#demo-6-custom-banned-password-list)
 
 
 ## How To Use
@@ -68,6 +68,9 @@ This training repository is divided in to the following sections:
 ## Deployment
 
 Almost all sessions can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
+
+[Instructions and prerequisites are outlined here](deployment.md). 
+
 
 ## Demo Videos
 
