@@ -1,9 +1,20 @@
 # AFUN40: Azure Security Fundamentals
 
- ![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)
+ [![Learning Path](https://img.shields.io/badge/Learning%20Path-AFUN-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-afun)
 
 ## Session Abstract
+
 Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.
+
+
+## Table of Content
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN_40_IGNITE.mp4) |
+| Demos             | - [Demo 1 - ASC-Secure-Score](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-1---azure-security-center-secure-score)  <br/>- [Demo 2 - ASC-Compliance](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-2---azure-security-center-policy-and-compliance)  <br/>- [Demo 3 - Resource-Security-Hygiene](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-3-azure-resource-security-hygiene)  <br/>- [Demo 4 - Privileged Identity Management](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-4---privileged-identity-management)  <br/>- [Demo 5 - Storage-Firewall](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-5---storage-account-network-traffic-restrictions)  <br/>- [Demo 6 - Azure-SQL-Security](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-6-azure-sql-advanced-data-security)  <br/>- [Demo 7 - Azure Sentinel](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun40/demos.md#demo-7-azure-sentinel) |
+
 
 ## Session Story
 
@@ -15,10 +26,11 @@ In this session you’ll demonstrate how Tailwind Traders was able to perform tr
 - The next step is demonstrating how you can configure and manage software updates for both Tailwind Trader’s Windows and Linux virtual machines running in Azure. This will allow Tailwind Traders to be sure that their VMs are as secure as possible when it comes to software updates.
 - You’ll then show attendees how Tailwind Traders was able to ensure that changes made to virtual machines, such as the installation of applications and packages, can be tracked by enabling Inventory and Change Tracking. This allows Tailwind Traders to be notified if unusual software is deployed within their VMs.
 
-
 Many organizations are like Tailwind Traders and assume that because they have heard the functionality to do things like automatically back up virtual machines and apply software updates exists within Azure, it is turned on by default. In presenting this session you’ll help attendees understand that it is their organization’s responsibility under the shared responsibility model to leverage the tools that are provided for them, and that Microsoft does not enable these features by default.
 
+
 ## How to use this repository
+
 Welcome, Presenter!
 
 We're glad you are here and look forward to your delivery of this content.
@@ -33,21 +45,24 @@ Read this document in its entirety. Watch the video presentation(s), review and 
 
 Ask questions of the Lead Presenter and trained speakers (list below).
 
-## Getting Started
-These instructions consist of the steps you should go through in preparing to present this content:
 
-### Assets in the Train-the-Trainer Kit
+## Get Started
 
-- This guide</li>
-- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/afun40.pptx)
-- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN%2040%20LAB%20NOTES-Draft1.docx)
-- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-BETA-RUN-2.mp4)
+This training repository is divided in to the following sections:
+
+| **Slides** | [Demos](demos.md) | [Deployment](deployment.md) | 
+|-------------------|---------------------------|--------------------------------------
+| 38 slides  | 7 demos  | 1 deployment process
+
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN-40-DIRECTOR-CUT.mp4)
-- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/AFUN_40_IGNITE.mp4)
+
 
 ### Deployment
 
 Almost all sessions can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
+
+[Instructions and prerequisites are outlined here](deployment.md). 
+
 
 ### Demo Videos
 
@@ -60,3 +75,30 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 - [Demo-7-Azure-Sentinel](https://globaleventcdn.blob.core.windows.net/assets/afun/afun40/Demo-7-Azure-Sentinel.mp4)
 
 
+## Become a Presenter
+
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+
+- Complete name:
+- The code of this presentation: \<Session Code (ex:APPS10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
+
+
+## Trained Presenters
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://orinthomas.com">
+        <img src="https://avatars1.githubusercontent.com/u/44561273?s=460&v=4" width="100px;" alt="Orin-Thomas"/><br />
+        <sub><b>Orin-Thomas</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="Documentation">📖</a> 
+    </td>
+</tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
