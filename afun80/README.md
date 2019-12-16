@@ -49,7 +49,7 @@ This training repository is divided in to the following sections:
 
 | **Slides** | [Demos](demos.md) | [Deployment](deployment.md) | 
 |-------------------|---------------------------|--------------------------------------
-| 7 slides  | 5 demos  | 1 deployment process
+| 51 slides  | 5 demos  | 1 deployment process
 
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/FUN80%20Directors%20Cut.mp4)
 
