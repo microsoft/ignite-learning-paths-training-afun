@@ -5,6 +5,14 @@
 ## Session Abstract
 Identity is the core of most workloads in Azure, and Tailwind Traders wants to implement Azure Active Directory in a way that correctly meshes their on-premises identities with those required in the cloud. In this session, learn the difference between authentication and authorization, as well as different identity models. Then, dive into the benefits of conditional access and multi-factor authentication (MFA) and wrap up with a demo showing you how to implement these types of extra protection.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Identity%20Fundamentals.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN_90_IGNITE.mp4) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/AFUN90%20Identity%20Fundamentals.mp4) |
+| Demos             | - [Demo 1 - Create user and convert to global admin](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/1.AAD-Rename-New-User-Global-Administrator.mp4)  <br/>- [Demo 2 - Azure AD Connect](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/2.Azure-AD-Connect.mp4)  <br/>- [Demo 3 - Add External User](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/3.External-User.mp4)  <br/>- [Demo 4 - Self Service Password Reset](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/4.Self-Service-Password-Reset.mp4)  <br/>- [Demo 5 - Conditional Access](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/5.ConditionalAccess.mp4)  <br/>- [Demo 6 - Custom Banned Password List](https://globaleventcdn.blob.core.windows.net/assets/afun/afun90/6.CustomBannedPasswordList.mp4)  |
+
 ## Session Story
 In this session you’ll demonstrate how fictional customer Tailwind Traders has adopted Azure Active Directory and configured some of its features. This talk starts with some basic concepts, like the difference between authentication & authorization, and finishes by introducing the concept of passwordless. It also explains the difference between Active Directory, Azure Active Directory and Microsoft Accounts. 
 
