@@ -86,14 +86,14 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 ## Become a Trained Presenter
 
-To become a trained presenter, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: afun95
-- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes). 
-  > It doesn't need to be this content, the important is to show your presenter skills
+- The code of this presentation: \<Session Code (ex:AFUN10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
-A mentor will get back to you with the information on the process.
 
 ## Trained Presenters
 

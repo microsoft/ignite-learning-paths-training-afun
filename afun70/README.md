@@ -83,7 +83,7 @@ You don't need anything to present this content, it's all there to be used. Howe
 To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: \<Session Code (ex:APPS10)\>
+- The code of this presentation: \<Session Code (ex:AFUN10)\>
 - Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
 
