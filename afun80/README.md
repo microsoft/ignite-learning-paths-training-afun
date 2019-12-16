@@ -13,7 +13,7 @@ Tailwind Traders wants to make sure that their current and future Azure workload
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN80%20Governance%20Azure%20-%20Fundamentals.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun80/AFUN_80_IGNITE.mp4) |
-| Demos             | - [Demo 1 - VM RBAC policy](#) <br/>- [Demo 2 - Block VM SKU](#) <br/>- [Demo 3 - Enforce Tags](#) <br/>- [Demo 4 - New Management Group](#) <br/>- [Demo 5 - Blueprints](#)
+| Demos             | - [Demo 1 - VM RBAC policy](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun80/demos.md#demo-1---vm-rbac) <br/>- [Demo 2 - Block VM SKU](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun80/demos.md#demo-2---block-vm-by-sku) <br/>- [Demo 3 - Enforce Tags](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun80/demos.md#demo-3---enforce-tags-through-policy) <br/>- [Demo 4 - New Management Group](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun80/demos.md#demo-4---management-groups) <br/>- [Demo 5 - Blueprints](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun80/demos.md#demo-5---azure-blueprints)
 
 ## How To Use
 
