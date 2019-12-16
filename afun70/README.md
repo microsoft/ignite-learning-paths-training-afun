@@ -50,23 +50,22 @@ Within this session we are talking about a fictional customer called “Tailwind
 By the end of the session the audience should have basic understanding of the cost management tools that are built into Azure and how to use them within a real world scenario by relating them to problems that the fictional customer Tailwind Traders has. 
 
 
-## Getting Started
+## Get Started
 
-These instructions consist of the steps you should go through in preparing to present this content:
+This training repository is divided in to the following sections:
 
+| [Slides](#slides) | [Demos](demos.md) | [Deployment](deployment.md) | 
+|-------------------|---------------------------|--------------------------------------
+| 38 slides  | 5 demos  | 1 deployment process
 
-### Assets in the Train-the-Trainer Kit
-
-
-- This guide
-
-- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70%20Demo%20Guide.docx)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Directors-Cut.mp4)
 
 
 ### Deployment
 
 Almost all sessions can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
+
+[Instructions and prerequisites are outlined here](deployment.md). 
 
 ### Demo Videos
 
@@ -79,14 +78,14 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ## Become a Trained Presenter
 
-To become a trained presenter, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: afun95
-- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes). 
-  > It doesn't need to be this content, the important is to show your presenter skills
+- The code of this presentation: \<Session Code (ex:APPS10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
-A mentor will get back to you with the information on the process.
 
 ## Trained Presenters
 
@@ -95,11 +94,11 @@ A mentor will get back to you with the information on the process.
 
 <table>
 <tr>
-    <td align="center"><a href="http://www.christina.is">
-        <img src="https://avatars2.githubusercontent.com/u/110683?s=460&v=4" width="100px;" alt="Christina Warren"/><br />
-        <sub><b>Christina Warren</b></sub></a><br />
-            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=filmgirl" title="talk">📢</a>
-            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=filmgirl" title="Documentation">📖</a> 
+    <td align="center"><a href="http://orinthomas.com">
+        <img src="https://avatars1.githubusercontent.com/u/44561273?s=460&v=4" width="100px;" alt="Orin-Thomas"/><br />
+        <sub><b>Orin-Thomas</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="Documentation">📖</a> 
     </td>
 </tr></table>
 
