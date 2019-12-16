@@ -1,5 +1,8 @@
+# Demos
 
 ## Demo 1 - Storage Account Demo
+
+> 💡 You must have completed the [deployment](deployment.md) before attempting to do the demo.
 
 We are going to go into the web portal for this demo, but everything we are going to do in the portal we could do in multiple different ways. We could use the Azure APIs to create the storage account, we could use an ARM template, which is the Azure native Infrastructure as Code option, or we could even use a command line. Yes, in case you haven’t gotten to play around with it, Azure has a command line that you can launch from a web browser, or even directly from your OS. You can also use tools like Visual Studio and VScode to configure them.
 
@@ -22,4 +25,18 @@ Let’s go back to the overview and we’ll create a basic file share. Since we 
 
 ## Demo 2 - Cosmos DB Demo
 
-[More to come...]
+> 💡 You must have completed the [deployment](deployment.md) before attempting to do the demo.
+
+I deployed the standalone version of the TT app, and there’s a Cosmos DB database that gets deployed as part of that, which is using the MongoDB API to store inventory data. It doesn’t really matter whether you use this or just deploy an empty Cosmos DB instance, you can do the demo either way. 
+
+After you open up the database instance, the first thing we can see is the status of the instance. We can see whether it’s online or not, as well as the resource group and subscription being used. We can also quickly see which regions we have deployed into for both reads and writes, since those can be set manually. Finally, we have the global URI that is going to be used to access this data regardless of how many regions we have the data spread out over. 
+
+Underneath that, we can see the list of “collections” or data sets that are being stored in this instance, as well as the throughput of that collection. 
+
+We can also see some statistics that might be useful at a glance, including the number of requests, as well as a visual representation of both the storage and bandwidth billing components of the service. 
+
+On the left menu we can access more things that will be helpful for us. We can open the Connection String section and see both the read-write and read-only keys, as well as the connection information to primary and secondary copies. 
+
+The left menu is also where you can set up the global replication that we know is such a huge benefit of Cosmos DB. We can see the map of all the Azure regions and see what locations we have data in at any point in time. We can also see whether multi-region writes are enabled, and see a list of the regions being used. If we wanted to copy this database to new regions, we’d simply select them on the map.  Here we’ll add the North Europe, West Europe, Hong Kong and Sydney regions to the two we already had, and when we click save, Azure will start the process of replicating the data over, and once that process is complete, add those regions to the load balancer and let customers in those geographies start accessing their local instances. 
+
+Finally, we can actually browse the data we are storing directly from the Azure portal. We can use the Data Explorer and drill down into each of the stored documents to see the records themselves. This database is storing inventory data for Tailwind Traders, and we can see the JSON entries for each product the company sells. This data is actually being accessed through the MongoDB API, so the application THINKS it’s talking to a MongoDB instance even though we are running it on a platform with significantly more scale and capabilities.  
