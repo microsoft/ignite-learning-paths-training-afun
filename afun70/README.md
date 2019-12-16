@@ -13,7 +13,7 @@ Tailwind Traders wants to keep the costs of running their workloads in Azure pre
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN_70_IGNITE.mp4) |
-| Demos             | - [Demo 1 -  ](#) <br/>- [Demo 2 - ](#) <br/>- [Demo 3 - ](#) <br/>- [Demo 4 - ](#) <br/>- [Demo 5 - ](#)
+| Demos             | - [Demo 1 - Azure Pricing Calculator](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun70/demos.md#demo-1---azure-pricing-calculator) <br/>- [Demo 2 - Total Cost of Ownership Calculator](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun70/demos.md#demo-2---total-cost-of-ownership-calculator) <br/>- [Demo 3 - Azure Budgets](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun70/demos.md#demo-3---azure-budgets) <br/>- [Demo 4 - Azure Cost Analysis](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun70/demos.md#demo-4---azure-cost-analysis) <br/>- [Demo 5 - Azure Advisor](https://github.com/microsoft/ignite-learning-paths-training-afun/blob/master/afun70/demos.md#demo-5-azure-advisor)
 
 
 ## How to use this repository
@@ -54,9 +54,9 @@ By the end of the session the audience should have basic understanding of the co
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos.md) | [Deployment](deployment.md) | 
+| **Slides** | [Demos](demos.md) | [Deployment](deployment.md) | 
 |-------------------|---------------------------|--------------------------------------
-| 38 slides  | 5 demos  | 1 deployment process
+| 7 slides  | 5 demos  | 1 deployment process
 
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Directors-Cut.mp4)
 
