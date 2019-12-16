@@ -5,6 +5,14 @@
 ## Session Abstract
 Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Draft2-08OCT-SALEAN.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN_70_IGNITE.mp4) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/AFUN70-Directors-Cut.mp4) |
+| Demos             | - [Demo 1 - Azure Pricing Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/1.%20Azure%20Pricing%20Calculator_Edited.mp4)  <br/>- [Demo 2 - Azure TCO Calculator](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/2.%20Azure%20TCO%20Calculator%20Edit%20No%20Audit%20OT.mp4)  <br/>- [Demo 3 - Azure Budgets](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/3.%20Azure%20Budgets%20Edited%20No%20Audio%20OT.mp4)  <br/>- [Demo 4 - Azure Cost Analysis](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/4.%20Azure%20Cost%20Analysis%20Edit%20No%20Audio%20OT.mp4)  <br/>- [Demo 5 - Azure Advisor](https://globaleventcdn.blob.core.windows.net/assets/afun/afun70/5.%20Azure%20Advisor%20Edit%20No%20Audio%20OT.mp4) |
+
 ## Session Story
 
 Within this session we are talking about a fictional customer called “Tailwind Traders”.   They are looking to migrate their workloads to the cloud and have approached us for advice around cost management within the cloud.
