@@ -4,7 +4,7 @@ This is a machine generated file, and should not be edited, as it will be overwr
 
 # AFUN60 Presentation Files
 
-- [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx) (Updated: Nov 10, 2019)
+- [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx) (Updated: Nov 11, 2019)
 ---
 ## Historical Files
 - [afun60-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60-2019-10_Oct-24.pptx)
