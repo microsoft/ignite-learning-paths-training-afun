@@ -33,7 +33,7 @@ code.
 
 In this session you’ll demonstrate how Tailwind traders wants to ensure that their current and future Azure workloads adhere to a strict set of guidelines around what can be deployed and how it is configured. You'll showcase how Tailwind Traders met its compliance obligations by implementing Azure governance technologies.
 
-- You will demonstrate how Governance addresses a million reasons why you would want to enforce rules.  It might be about security, it might be about a set of compliance benchmarks. But when you boil it down, what you want to do, is you want to specify the properties of things that you've got running those properties might be that it made might need to be named in a certain way that certain people might need to have access to it but that's a way of thinking about governance.
+- You will demonstrate how Governance allows you to apply sets of rules that define the properties of Azure artefacts.
 - You’ll demonstrate how Tailwind Traders harnessed RBAC as a governance technology to control permissions in restricting open access to manage VMs within the Azure Portal and breakdown the components that make RBAC work
 - You will highlight Azure Policy enablement on resource usage restriction and asset tagging, creation of custom policy JSON scripts, and detailed its differences from RBAC
 - You’ll demo the use of Management groups to enforce multiple subscriptions under the same rules detailed through RBAC and Azure Policy
