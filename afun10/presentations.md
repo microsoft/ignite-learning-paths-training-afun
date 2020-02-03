@@ -9,7 +9,7 @@ please contact Scott Cate
 
 # AFUN10 Current Presentation Files
 
-- [afun10.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/afun10.pptx) (Updated: Nov 19, 2019)
+- [afun10.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/afun10.pptx)
 ---
 ## Historical Files
 - [afun10-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun10/afun10-2019-10_Oct-24.pptx)

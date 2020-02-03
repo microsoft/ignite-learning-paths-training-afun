@@ -9,7 +9,7 @@ please contact Scott Cate
 
 # AFUN60 Current Presentation Files
 
-- [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx) (Updated: Nov 10, 2019)
+- [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx)
 ---
 ## Historical Files
 - [afun60-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60-2019-10_Oct-24.pptx)
