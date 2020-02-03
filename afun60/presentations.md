@@ -7,7 +7,7 @@ If you have questions around this process
 please contact Scott Cate
 -->
 
-# AFUN60 Presentation Files
+# AFUN60 Current Presentation Files
 
 - [afun60.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun60/afun60.pptx) (Updated: Nov 10, 2019)
 ---
