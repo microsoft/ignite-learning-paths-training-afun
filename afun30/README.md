@@ -44,7 +44,7 @@ This training repository is divided in to the following sections:
 - [ ] Update `--dns-name-label` suffix to be unique, in scripts inside `2 - cloudshell` folder
 - [ ] Hide your desktop icons, set light theme (if using Mac OS), set up at least 4 virtual dekstops
 - [ ] Remove `myACIDemo` resource group: `az group delete -n myACIDemo`
-- [ ] Deploy base Prague index.html to app service
+- [ ] Add city name to `index.html` and deploy to app service `static-twt`
 - [ ] Open PowerPoint in full screen, clone mode on virtual desktop 1
 - [ ] Open VS Code in full screen on virtual desktop 2 and set zoom
 - [ ] Prepare VS Code for demo: set dark theme, open `README.md`, reset search, clean app service output logs
