@@ -39,6 +39,19 @@ This training repository is divided in to the following sections:
 | 40 slides - 35 minutes, | 2 demos - 10 minutes
 
 
+## Before Presenting - Checklist
+- [ ] Update your name and next sessions in slides
+- [ ] Update `--dns-name-label` suffix to be unique, in scripts inside `2 - cloudshell` folder
+- [ ] Hide your desktop icons, set light theme (if using Mac OS), set up at least 4 virtual dekstops
+- [ ] Remove `myACIDemo` resource group: `az group delete -n myACIDemo`
+- [ ] Add city name to `index.html` and deploy to app service `static-twt`
+- [ ] Open PowerPoint in full screen, clone mode on virtual desktop 1
+- [ ] Open VS Code in full screen on virtual desktop 2 and set zoom
+- [ ] Prepare VS Code for demo: set dark theme, open `README.md`, reset search, clean app service output logs
+- [ ] Open Edge in full screen on virtual desktop 3 with Azure Portal ([aka.ms/publicportal](https://aka.ms/publicportal), set zoom at least to 150%
+- [ ] Open terminal in full screen on virtual dekstop 4, set zoom
+
+
 ## Become a Trained Presenter
 
 You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
