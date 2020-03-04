@@ -67,6 +67,15 @@ Detailed explanations of each demonstration associated with this presentation ca
 |  [2 - Cosmos DB Demo](demos/README.md#demo-2---cosmos-db-demo)  | 00:02:01  | [Link](https://globaleventcdn.blob.core.windows.net/assets/afun/afun50/AFUN50%20-%20Demo%2002%20-%20Cosmos%20DB%20Demo.mp4)
 
 
+## Before Presenting - Checklist
+- [ ] Update your name and next sessions in slides
+- [ ] Create a CosmosDB instance for the demo, select 2 regions
+- [ ] Hide your desktop icons, set light theme (if using Mac OS), set up at least 2 virtual dekstops
+- [ ] Remove `afun50prague` resource group: `az storage account delete -n afun50prague`
+- [ ] Open PowerPoint in full screen, clone mode on virtual desktop 1
+- [ ] Open Edge in full screen on virtual desktop 2 with Azure Portal dashboard page ([aka.ms/publicportal](https://aka.ms/publicportal), set zoom at least to 150%
+- [ ] Open new tab in Edge on prepared CosmosDB instance, on global distribution page
+
 
 ## Become a Trained Presenter
 
