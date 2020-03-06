@@ -10,10 +10,12 @@ please contact Scott Cate
 # AFUN95 Current Presentation Files
 
 - [afun95.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95.pptx)
+- [afun95.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95.ja-jp.pptx)
 ---
 ## Historical Files
 - [afun95-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-2019-10_Oct-24.pptx)
 - [afun95-2019-11_Nov-04.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-2019-11_Nov-04.pptx)
 - [afun95-2019-11_Nov-13.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95-2019-11_Nov-13.pptx)
+- [afun95.ja-jp-2020-03_Mar-06.pptx](https://globaleventcdn.blob.core.windows.net/assets/afun/afun95/afun95.ja-jp-2020-03_Mar-06.pptx)
 
 
