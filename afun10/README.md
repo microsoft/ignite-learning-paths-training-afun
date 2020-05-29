@@ -85,6 +85,11 @@ To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:
         <sub><b>Frank Boucher</b></sub></a><br />
             <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=fboucher" title="Documentation">📖</a> 
     </td>
+     <td align="center"><a href="https://twitter.com/jlee_consulting">
+        <img src="https://avatars0.githubusercontent.com/u/36266460?s=460&v=4" width="100px;" alt="Jack Lee"/><br />
+        <sub><b>Jack Lee</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=jlee-consulting" title="talk">📢</a> 
+    </td>
 </tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
