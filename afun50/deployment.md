@@ -14,8 +14,8 @@
 
  If you want to use something relevant to the Ignite Tour, there is a standalone version of the TT app that can be deployed directly into Azure. 
 
- https://github.com/microsoft/TailwindTraders-Website/tree/master/Source/Tailwind.Traders.Web/Standalone
+ https://github.com/microsoft/TailwindTraders-Website/tree/main/Source/Tailwind.Traders.Web/Standalone
 
- Please follow the instructions under the Deploy to [Azure App Service](https://github.com/microsoft/TailwindTraders-Website/tree/master/Source/Tailwind.Traders.Web/Standalone#deploy-to-azure-app-service-automatic-deployment) section of the README, and you'll end up with the same Cosmos DB instance that was used to create the demo video. 
+ Please follow the instructions under the Deploy to [Azure App Service](https://github.com/microsoft/TailwindTraders-Website/tree/main/Source/Tailwind.Traders.Web/Standalone#deploy-to-azure-app-service-automatic-deployment) section of the README, and you'll end up with the same Cosmos DB instance that was used to create the demo video. 
 
 The only pointer I'd offer for this demo is to _not_ click ```"Save"``` at the end of the section where you select new regions for replication so you don't have to sit through the validation process of that step. If you _do_ click save, use that as the last step when you end the demo.

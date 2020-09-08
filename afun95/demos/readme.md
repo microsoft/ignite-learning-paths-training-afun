@@ -9,7 +9,7 @@
  - Browser Tab - Portal Azure - Dashboard/ home
  - Browser Tab - Portal Azure - Function App (with out any Functions)
  - Browser Tab - Portal Azure - Logic App Overview blade 
- - Browser Tab - GitHub - on the demo page. (https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun/afun95)
+ - Browser Tab - GitHub - on the demo page. (https://github.com/microsoft/ignite-learning-paths-training-afun/tree/main/afun/afun95)
  - ZoomIt (or another application that zoom your screen) should be running
 
 ---
@@ -135,7 +135,7 @@ In this demo you will deploy an Azure Function directly from the GitHub using Az
 
 > Mention that you will start the deployment right now and explain how it works while it's deploying. Also mention that the folder you are using **IS** the repository that can use and they saw in the bottom of every slides.
 
-> In the bottom of the page in the section **[Deploy the Azure Function](https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95/demos#deploy-the-azure-function)** click on the Deploy to Azure Button. Once more fill the form explaining your choices and this time click the deployment button. Click the notification in the top right corner to see easily when the deployment is done. 
+> In the bottom of the page in the section **[Deploy the Azure Function](https://github.com/microsoft/ignite-learning-paths-training-afun/tree/main/afun95/demos#deploy-the-azure-function)** click on the Deploy to Azure Button. Once more fill the form explaining your choices and this time click the deployment button. Click the notification in the top right corner to see easily when the deployment is done. 
 
 > Now let's get back in GitHub
 
@@ -191,11 +191,11 @@ What will append is Azure will create the list of resources and then synchronize
 To deploy the Function we will send the ARM template to define in the deployment folder to the Azure portal `#create` feature. This is done by appending the absolute path of our template to the URL of the portal. The result looks like this.
 
 ```html
-https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmaster%2Fafun95%2Fdeployment%2FdeployAzure-afun95-demo3.json
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmain%2Fafun95%2Fdeployment%2FdeployAzure-afun95-demo3.json
 ```
 A frequent way to ease the process is to put that composed URL in an anchor. Click the Deploy to Azure anchor (or button) to start the deployment.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmaster%2Fafun95%2Fdeployment%2FdeployAzure-afun95-demo3.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmain%2Fafun95%2Fdeployment%2FdeployAzure-afun95-demo3.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
 > The deployment should be done now, return to the Azure Portal and execute the Function, check the code....
 
