@@ -64,16 +64,6 @@ Tailwind Traders is curious about the concept behind "serverless" computing – 
 
 To know more about about to contribute to this project please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) page.
 
-## Become a Trained Presenter
-
-You don't need anything to present this content, it's all there to be used. However, by becoming a _Trained Presenter_ the scalable content team will recognize you as well. _Trained Presenter_ see their contact information (name, picture, website) in the bottom of each session.
-
-To become a _Trained Presenter_, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
-
-- Complete name:
-- The code of this presentation: \<Session Code (ex:APPS10)\>
-- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
-
 ## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
